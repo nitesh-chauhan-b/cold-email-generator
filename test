@@ -1,0 +1,36 @@
+The portfolio is stored successfully!
+
+        ### JOB DESCRIPTION
+        {'job_title': 'Software Developer Intern: 2025', 'required_skills': ['Programming Languages: Familiarity with one or more programming languages such as Java, Python, C++, or JavaScript', 'Development Tools: Experience with software development tools such as Git, IDEs (e.g., Eclipse, IntelliJ), and version control systems', 'Problem-Solving Skills: Strong analytical and problem-solving abilities with a keen attention to detail', 'Communication: Excellent verbal and written communication skills, with the ability to collaborate effectively in a team environment', 'Adaptability: Willingness to learn new technologies and adapt to changing project requirements', 'Teamwork: Ability to work both independently and as part of a collaborative team'], 'preferred_skills': ['Frameworks and Libraries: Experience with web development frameworks (e.g., React, Angular) or mobile development (e.g., Android, iOS)', 'Cloud Technologies: Exposure to cloud platforms such as IBM Cloud, AWS, or Azure', 'Database Knowledge: Basic understanding of databases, including SQL and NoSQL databases', 'Agile Methodology: Familiarity with Agile development practices and tools such as JIRA or Trello', 'Open Source Contributions: Any experience contributing to open-source projects is a plus'], 'experience': 'Internship', 'job_description': 'Participate in many aspects of the software development lifecycle, such as design, code implementation, testing, and support. Create software that is of high quality and meets our clients’ needs. Opportunity to become a contributor within Open Source communities across multiple disciplines.'}
+
+        ### INSTRUCTIONS
+        You task is to generate a professional cold email based on the given JSON file.
+        NO PREAMBLE
+
+        DRC Systems India Limited. Which is service based company and would like client to hire them for the job.
+        This company has a 12+ years of experience in development. Is one of the best known for their service.
+        It should be a best combination of professional and marketing email.
+        The cold email must be professional email from company DRC Systems India Limited..
+
+        Also add most relevant links from the following to show case DRC Systems India Limited. work [[[{'links': 'https://example.com/ml-python-portfolio'}, {'links': 'https://example.com/python-portfolio'}], [{'links': 'https://example.com/devops-portfolio'}, {'links': 'https://example.com/magento-portfolio'}], [{'links': 'https://example.com/ml-python-portfolio'}, {'links': 'https://example.com/full-stack-js-portfolio'}], [{'links': 'https://example.com/android-portfolio'}, {'links': 'https://example.com/kotlin-backend-portfolio'}], [{'links': 'https://example.com/ml-python-portfolio'}, {'links': 'https://example.com/ios-ar-portfolio'}], [{'links': 'https://example.com/devops-portfolio'}, {'links': 'https://example.com/wordpress-portfolio'}]], [[{'links': 'https://example.com/ios-ar-portfolio'}, {'links': 'https://example.com/xamarin-portfolio'}], [{'links': 'https://example.com/xamarin-portfolio'}, {'links': 'https://example.com/devops-portfolio'}], [{'links': 'https://example.com/react-portfolio'}, {'links': 'https://example.com/magento-portfolio'}], [{'links': 'https://example.com/kotlin-backend-portfolio'}, {'links': 'https://example.com/ios-ar-portfolio'}], [{'links': 'https://example.com/vue-portfolio'}, {'links': 'https://example.com/ml-python-portfolio'}]]]
+
+        Information to use in case required,
+        Contact Information : info@drcsystems.com
+        Your Name : Kamal
+        Position : Marketing Department
+
+        ## ONLY VALID INFORMATION.
+        ## EMAIL(with NO PREAMBLE)
+        ### Do not include heading. Not even anything apart from email(nothing else(NO PREAMBLE)).
+
+
+        Apart, from this you can generate some additional fields into a json which seems to be important for writing a email for job. But, the specifiled fileds are the must ones.
+
+
+ {
+"job_title": "Software Developer Intern: 2025",
+"required_skills": ["Programming Languages: Familiarity with one or more programming languages such as Java, Python, C++, or JavaScript.", "Development Tools: Experience with software development tools such as Git, IDEs (e.g., Eclipse, IntelliJ), and version control systems.", "Problem-Solving Skills: Strong analytical and problem-solving abilities with a keen attention to detail.", "Communication: Excellent verbal and written communication skills, with the ability to collaborate effectively in a team environment.", "Adaptability: Willingness to learn new technologies and adapt to changing project requirements.", "Teamwork: Ability to work both independently and as part of a collaborative team."],
+"preferred_skills": ["Frameworks and Libraries: Experience with web development frameworks (e.g., React, Angular) or mobile development (e.g., Android, iOS).", "Cloud Technologies: Exposure to cloud platforms such as IBM Cloud, AWS, or Azure.", "Database Knowledge: Basic understanding of databases, including SQL and NoSQL databases.", "Agile Methodology: Familiarity with Agile development practices and tools such as JIRA or Trello.", "Open Source Contributions: Any experience contributing to open-source projects is a plus."],
+"experience": " Internship",
+"job_description": "At IBM, work is more than a job – it’s a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you’ve never thought possible. Are you ready to lead in this new era of technology and solve some of the world’s most challenging problems? If so, lets talk."
+}
