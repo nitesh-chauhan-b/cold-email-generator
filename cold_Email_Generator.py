@@ -1,6 +1,10 @@
 import langchainHelper
 import streamlit as st
 
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 #Creating a User Interface for the application.
 
 st.title("✉️ Cold Email Generator")
