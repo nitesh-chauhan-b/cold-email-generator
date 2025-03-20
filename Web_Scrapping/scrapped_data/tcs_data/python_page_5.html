@@ -3,204 +3,19 @@
 		<!-- ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order" style="">
 			<div class="job-data-bar">
 				<div class="job-info job-info-title">
-					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="OpenText Vendor Invoice Management(VIM)"><span data-ng-bind="title( j.title )" class="ng-binding">OpenText Vendor Invoice ...</span></a>
+					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Angular Developer"><span data-ng-bind="title( j.title )" class="ng-binding">Angular Developer</span></a>
 					<div class="float-right walk-mobile" style="padding-right: 10px;">
 						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
 					</div>
 				</div>
 				<div class="job-info">
-					<span data-ng-bind="j.location" class="ng-binding">Bangalore</span>
+					<span data-ng-bind="j.location" class="ng-binding">Pune</span>
 				</div>
 				<div class="job-info">
 					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Technology</span>
 				</div>
 				<div class="job-info">
-					<span data-ng-bind="j.experience" class="ng-binding">4-6</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
-					<div class="float-right walk-mobile">
-						<span data-ng-bind="j.dateApplyBy" class="ng-binding">31- May-2025</span>
-					</div>
-				</div>
-				<div class="job-info date-desktop">
-					<span data-ng-bind="j.dateApplyBy" class="ng-binding">31- May-2025</span>
-					<div class="float-right walk-desktop">
-						<span class="walk-in-logo ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon" class="walk-in-text">WALK-IN</span></span>
-					</div>
-				</div>
-			</div>
-			<div class="skill-bar">
-				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
-					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
-				</div>
-				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">SAP Opentext VIM</span></div>
-				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
-					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
-				</div>
-			</div>
-			<div class="job-border"></div>
-		</div><!-- end ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order">
-			<div class="job-data-bar">
-				<div class="job-info job-info-title">
-					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Mainframe Storage"><span data-ng-bind="title( j.title )" class="ng-binding">Mainframe Storage</span></a>
-					<div class="float-right walk-mobile" style="padding-right: 10px;">
-						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
-					</div>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="j.location" class="ng-binding">Hyderabad</span>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Technology</span>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="j.experience" class="ng-binding">4-6</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
-					<div class="float-right walk-mobile">
-						<span data-ng-bind="j.dateApplyBy" class="ng-binding">14- Apr-2025</span>
-					</div>
-				</div>
-				<div class="job-info date-desktop">
-					<span data-ng-bind="j.dateApplyBy" class="ng-binding">14- Apr-2025</span>
-					<div class="float-right walk-desktop">
-						<span class="walk-in-logo ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon" class="walk-in-text">WALK-IN</span></span>
-					</div>
-				</div>
-			</div>
-			<div class="skill-bar">
-				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
-					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
-				</div>
-				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Mainframe Strorage Administration</span></div>
-				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
-					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
-				</div>
-			</div>
-			<div class="job-border"></div>
-		</div><!-- end ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order">
-			<div class="job-data-bar">
-				<div class="job-info job-info-title">
-					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Splunk Developer"><span data-ng-bind="title( j.title )" class="ng-binding">Splunk Developer</span></a>
-					<div class="float-right walk-mobile" style="padding-right: 10px;">
-						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
-					</div>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="j.location" class="ng-binding">Bangalore</span>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Technology</span>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="j.experience" class="ng-binding">6-8</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
-					<div class="float-right walk-mobile">
-						<span data-ng-bind="j.dateApplyBy" class="ng-binding">14- Apr-2025</span>
-					</div>
-				</div>
-				<div class="job-info date-desktop">
-					<span data-ng-bind="j.dateApplyBy" class="ng-binding">14- Apr-2025</span>
-					<div class="float-right walk-desktop">
-						<span class="walk-in-logo ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon" class="walk-in-text">WALK-IN</span></span>
-					</div>
-				</div>
-			</div>
-			<div class="skill-bar">
-				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
-					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
-				</div>
-				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Splunk</span></div>
-				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
-					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
-				</div>
-			</div>
-			<div class="job-border"></div>
-		</div><!-- end ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order">
-			<div class="job-data-bar">
-				<div class="job-info job-info-title">
-					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="B2B Collections Team Lead"><span data-ng-bind="title( j.title )" class="ng-binding">B2B Collections Team Lead</span></a>
-					<div class="float-right walk-mobile" style="padding-right: 10px;">
-						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
-					</div>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="j.location" class="ng-binding">NCR</span>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Business Process Services</span>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="j.experience" class="ng-binding">6-9</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
-					<div class="float-right walk-mobile">
-						<span data-ng-bind="j.dateApplyBy" class="ng-binding">22- Apr-2025</span>
-					</div>
-				</div>
-				<div class="job-info date-desktop">
-					<span data-ng-bind="j.dateApplyBy" class="ng-binding">22- Apr-2025</span>
-					<div class="float-right walk-desktop">
-						<span class="walk-in-logo ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon" class="walk-in-text">WALK-IN</span></span>
-					</div>
-				</div>
-			</div>
-			<div class="skill-bar">
-				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
-					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
-				</div>
-				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">F-Accounts Receivable  |  Finance and Accounting</span></div>
-				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
-					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
-				</div>
-			</div>
-			<div class="job-border"></div>
-		</div><!-- end ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order">
-			<div class="job-data-bar">
-				<div class="job-info job-info-title">
-					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="B2B Collections Agent (Voice)"><span data-ng-bind="title( j.title )" class="ng-binding">B2B Collections Agent (V...</span></a>
-					<div class="float-right walk-mobile" style="padding-right: 10px;">
-						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
-					</div>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="j.location" class="ng-binding">NCR</span>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Business Process Services</span>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="j.experience" class="ng-binding">1-5</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
-					<div class="float-right walk-mobile">
-						<span data-ng-bind="j.dateApplyBy" class="ng-binding">22- Apr-2025</span>
-					</div>
-				</div>
-				<div class="job-info date-desktop">
-					<span data-ng-bind="j.dateApplyBy" class="ng-binding">22- Apr-2025</span>
-					<div class="float-right walk-desktop">
-						<span class="walk-in-logo ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon" class="walk-in-text">WALK-IN</span></span>
-					</div>
-				</div>
-			</div>
-			<div class="skill-bar">
-				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
-					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
-				</div>
-				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">F-Accounts Receivable  |  Finance and Accounting</span></div>
-				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
-					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
-				</div>
-			</div>
-			<div class="job-border"></div>
-		</div><!-- end ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order">
-			<div class="job-data-bar">
-				<div class="job-info job-info-title">
-					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Java spring boot with React.js Developer"><span data-ng-bind="title( j.title )" class="ng-binding">Java spring boot with Re...</span></a>
-					<div class="float-right walk-mobile" style="padding-right: 10px;">
-						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
-					</div>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="j.location" class="ng-binding">Hyderabad</span>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Technology</span>
-				</div>
-				<div class="job-info">
-					<span data-ng-bind="j.experience" class="ng-binding">5-10</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
+					<span data-ng-bind="j.experience" class="ng-binding">3-8</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
 					<div class="float-right walk-mobile">
 						<span data-ng-bind="j.dateApplyBy" class="ng-binding">30- Jun-2025</span>
 					</div>
@@ -216,7 +31,7 @@
 				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
 					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
 				</div>
-				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Java  |  React JS</span></div>
+				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Angular JS</span></div>
 				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
 					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
 				</div>
@@ -225,7 +40,7 @@
 		</div><!-- end ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order">
 			<div class="job-data-bar">
 				<div class="job-info job-info-title">
-					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Manage File Transfer"><span data-ng-bind="title( j.title )" class="ng-binding">Manage File Transfer</span></a>
+					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Microsoft Dynamics 365 Navision Functional"><span data-ng-bind="title( j.title )" class="ng-binding">Microsoft Dynamics 365 N...</span></a>
 					<div class="float-right walk-mobile" style="padding-right: 10px;">
 						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
 					</div>
@@ -237,13 +52,13 @@
 					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Technology</span>
 				</div>
 				<div class="job-info">
-					<span data-ng-bind="j.experience" class="ng-binding">8-12</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
+					<span data-ng-bind="j.experience" class="ng-binding">4-12</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
 					<div class="float-right walk-mobile">
-						<span data-ng-bind="j.dateApplyBy" class="ng-binding">13- Apr-2025</span>
+						<span data-ng-bind="j.dateApplyBy" class="ng-binding">31- Dec-2025</span>
 					</div>
 				</div>
 				<div class="job-info date-desktop">
-					<span data-ng-bind="j.dateApplyBy" class="ng-binding">13- Apr-2025</span>
+					<span data-ng-bind="j.dateApplyBy" class="ng-binding">31- Dec-2025</span>
 					<div class="float-right walk-desktop">
 						<span class="walk-in-logo ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon" class="walk-in-text">WALK-IN</span></span>
 					</div>
@@ -253,7 +68,7 @@
 				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
 					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
 				</div>
-				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Manage File transfer(MFT)</span></div>
+				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Navsion</span></div>
 				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
 					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
 				</div>
@@ -262,25 +77,25 @@
 		</div><!-- end ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order">
 			<div class="job-data-bar">
 				<div class="job-info job-info-title">
-					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Network Security"><span data-ng-bind="title( j.title )" class="ng-binding">Network Security</span></a>
+					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Angular Developer"><span data-ng-bind="title( j.title )" class="ng-binding">Angular Developer</span></a>
 					<div class="float-right walk-mobile" style="padding-right: 10px;">
 						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
 					</div>
 				</div>
 				<div class="job-info">
-					<span data-ng-bind="j.location" class="ng-binding">Pune</span>
+					<span data-ng-bind="j.location" class="ng-binding">Kolkata</span>
 				</div>
 				<div class="job-info">
 					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Technology</span>
 				</div>
 				<div class="job-info">
-					<span data-ng-bind="j.experience" class="ng-binding">8-12</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
+					<span data-ng-bind="j.experience" class="ng-binding">3-8</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
 					<div class="float-right walk-mobile">
-						<span data-ng-bind="j.dateApplyBy" class="ng-binding">13- Apr-2025</span>
+						<span data-ng-bind="j.dateApplyBy" class="ng-binding">30- Jun-2025</span>
 					</div>
 				</div>
 				<div class="job-info date-desktop">
-					<span data-ng-bind="j.dateApplyBy" class="ng-binding">13- Apr-2025</span>
+					<span data-ng-bind="j.dateApplyBy" class="ng-binding">30- Jun-2025</span>
 					<div class="float-right walk-desktop">
 						<span class="walk-in-logo ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon" class="walk-in-text">WALK-IN</span></span>
 					</div>
@@ -290,7 +105,7 @@
 				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
 					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
 				</div>
-				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Network Security</span></div>
+				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Angular JS</span></div>
 				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
 					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
 				</div>
@@ -299,7 +114,7 @@
 		</div><!-- end ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order">
 			<div class="job-data-bar">
 				<div class="job-info job-info-title">
-					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Senior Product Designer"><span data-ng-bind="title( j.title )" class="ng-binding">Senior Product Designer</span></a>
+					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Microsoft Dynamics 365 Navision Technical"><span data-ng-bind="title( j.title )" class="ng-binding">Microsoft Dynamics 365 N...</span></a>
 					<div class="float-right walk-mobile" style="padding-right: 10px;">
 						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
 					</div>
@@ -311,13 +126,13 @@
 					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Technology</span>
 				</div>
 				<div class="job-info">
-					<span data-ng-bind="j.experience" class="ng-binding">7-12</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
+					<span data-ng-bind="j.experience" class="ng-binding">4-12</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
 					<div class="float-right walk-mobile">
-						<span data-ng-bind="j.dateApplyBy" class="ng-binding">30- Apr-2025</span>
+						<span data-ng-bind="j.dateApplyBy" class="ng-binding">31- Dec-2025</span>
 					</div>
 				</div>
 				<div class="job-info date-desktop">
-					<span data-ng-bind="j.dateApplyBy" class="ng-binding">30- Apr-2025</span>
+					<span data-ng-bind="j.dateApplyBy" class="ng-binding">31- Dec-2025</span>
 					<div class="float-right walk-desktop">
 						<span class="walk-in-logo ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon" class="walk-in-text">WALK-IN</span></span>
 					</div>
@@ -327,7 +142,7 @@
 				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
 					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
 				</div>
-				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">User Experience Design (UXD)</span></div>
+				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Navsion</span></div>
 				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
 					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
 				</div>
@@ -336,25 +151,25 @@
 		</div><!-- end ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order">
 			<div class="job-data-bar">
 				<div class="job-info job-info-title">
-					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Cargo Revenue Accounting "><span data-ng-bind="title( j.title )" class="ng-binding">Cargo Revenue Accounting </span></a>
+					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Angular Developer"><span data-ng-bind="title( j.title )" class="ng-binding">Angular Developer</span></a>
 					<div class="float-right walk-mobile" style="padding-right: 10px;">
 						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
 					</div>
 				</div>
 				<div class="job-info">
-					<span data-ng-bind="j.location" class="ng-binding">Mumbai</span>
+					<span data-ng-bind="j.location" class="ng-binding">Bangalore</span>
 				</div>
 				<div class="job-info">
-					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Business Process Services</span>
+					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Technology</span>
 				</div>
 				<div class="job-info">
-					<span data-ng-bind="j.experience" class="ng-binding">1-4</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
+					<span data-ng-bind="j.experience" class="ng-binding">3-8</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
 					<div class="float-right walk-mobile">
-						<span data-ng-bind="j.dateApplyBy" class="ng-binding">10- May-2025</span>
+						<span data-ng-bind="j.dateApplyBy" class="ng-binding">30- Jun-2025</span>
 					</div>
 				</div>
 				<div class="job-info date-desktop">
-					<span data-ng-bind="j.dateApplyBy" class="ng-binding">10- May-2025</span>
+					<span data-ng-bind="j.dateApplyBy" class="ng-binding">30- Jun-2025</span>
 					<div class="float-right walk-desktop">
 						<span class="walk-in-logo ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon" class="walk-in-text">WALK-IN</span></span>
 					</div>
@@ -364,7 +179,192 @@
 				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
 					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
 				</div>
-				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Cargo</span></div>
+				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Angular JS</span></div>
+				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
+					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
+				</div>
+			</div>
+			<div class="job-border"></div>
+		</div><!-- end ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order">
+			<div class="job-data-bar">
+				<div class="job-info job-info-title">
+					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Microsoft Dynamics 365 F&amp;O Finance Functional"><span data-ng-bind="title( j.title )" class="ng-binding">Microsoft Dynamics 365 F...</span></a>
+					<div class="float-right walk-mobile" style="padding-right: 10px;">
+						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
+					</div>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="j.location" class="ng-binding">Bangalore</span>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Technology</span>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="j.experience" class="ng-binding">4-12</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
+					<div class="float-right walk-mobile">
+						<span data-ng-bind="j.dateApplyBy" class="ng-binding">31- Dec-2025</span>
+					</div>
+				</div>
+				<div class="job-info date-desktop">
+					<span data-ng-bind="j.dateApplyBy" class="ng-binding">31- Dec-2025</span>
+					<div class="float-right walk-desktop">
+						<span class="walk-in-logo ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon" class="walk-in-text">WALK-IN</span></span>
+					</div>
+				</div>
+			</div>
+			<div class="skill-bar">
+				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
+					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
+				</div>
+				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Microsoft Dynamics AX</span></div>
+				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
+					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
+				</div>
+			</div>
+			<div class="job-border"></div>
+		</div><!-- end ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order">
+			<div class="job-data-bar">
+				<div class="job-info job-info-title">
+					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Angular Developer"><span data-ng-bind="title( j.title )" class="ng-binding">Angular Developer</span></a>
+					<div class="float-right walk-mobile" style="padding-right: 10px;">
+						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
+					</div>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="j.location" class="ng-binding">Hyderabad</span>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Technology</span>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="j.experience" class="ng-binding">3-8</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
+					<div class="float-right walk-mobile">
+						<span data-ng-bind="j.dateApplyBy" class="ng-binding">30- Jun-2025</span>
+					</div>
+				</div>
+				<div class="job-info date-desktop">
+					<span data-ng-bind="j.dateApplyBy" class="ng-binding">30- Jun-2025</span>
+					<div class="float-right walk-desktop">
+						<span class="walk-in-logo ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon" class="walk-in-text">WALK-IN</span></span>
+					</div>
+				</div>
+			</div>
+			<div class="skill-bar">
+				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
+					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
+				</div>
+				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Angular JS</span></div>
+				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
+					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
+				</div>
+			</div>
+			<div class="job-border"></div>
+		</div><!-- end ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order">
+			<div class="job-data-bar">
+				<div class="job-info job-info-title">
+					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Microsoft Dynamics 365 F&amp;O SCM Functional"><span data-ng-bind="title( j.title )" class="ng-binding">Microsoft Dynamics 365 F...</span></a>
+					<div class="float-right walk-mobile" style="padding-right: 10px;">
+						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
+					</div>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="j.location" class="ng-binding">Bangalore</span>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Technology</span>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="j.experience" class="ng-binding">4-12</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
+					<div class="float-right walk-mobile">
+						<span data-ng-bind="j.dateApplyBy" class="ng-binding">31- Dec-2025</span>
+					</div>
+				</div>
+				<div class="job-info date-desktop">
+					<span data-ng-bind="j.dateApplyBy" class="ng-binding">31- Dec-2025</span>
+					<div class="float-right walk-desktop">
+						<span class="walk-in-logo ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon" class="walk-in-text">WALK-IN</span></span>
+					</div>
+				</div>
+			</div>
+			<div class="skill-bar">
+				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
+					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
+				</div>
+				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">SCM</span></div>
+				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
+					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
+				</div>
+			</div>
+			<div class="job-border"></div>
+		</div><!-- end ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order">
+			<div class="job-data-bar">
+				<div class="job-info job-info-title">
+					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Microsoft Dynamics 365 CE Functional"><span data-ng-bind="title( j.title )" class="ng-binding">Microsoft Dynamics 365 C...</span></a>
+					<div class="float-right walk-mobile" style="padding-right: 10px;">
+						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
+					</div>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="j.location" class="ng-binding">Bangalore</span>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Technology</span>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="j.experience" class="ng-binding">4-12</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
+					<div class="float-right walk-mobile">
+						<span data-ng-bind="j.dateApplyBy" class="ng-binding">31- Dec-2025</span>
+					</div>
+				</div>
+				<div class="job-info date-desktop">
+					<span data-ng-bind="j.dateApplyBy" class="ng-binding">31- Dec-2025</span>
+					<div class="float-right walk-desktop">
+						<span class="walk-in-logo ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon" class="walk-in-text">WALK-IN</span></span>
+					</div>
+				</div>
+			</div>
+			<div class="skill-bar">
+				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
+					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
+				</div>
+				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Microsoft CRM  |  Microsoft Dynamics CRM</span></div>
+				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
+					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
+				</div>
+			</div>
+			<div class="job-border"></div>
+		</div><!-- end ngRepeat: j in jobList | orderBy: sort.field : sort.order --><div class="row custom-row searched-job ng-scope" data-ng-repeat="j in jobList | orderBy: sort.field : sort.order">
+			<div class="job-data-bar">
+				<div class="job-info job-info-title">
+					<a class="hand" data-ng-click="jobDesc(j.jobId)" data-tooltip-class="customClass" data-tooltip-placement="bottom" data-uib-tooltip="Microsoft Dynamics 365 CE Technical"><span data-ng-bind="title( j.title )" class="ng-binding">Microsoft Dynamics 365 C...</span></a>
+					<div class="float-right walk-mobile" style="padding-right: 10px;">
+						<span class="walk-in-logo text-light-blue pull-left font-11-bold ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon">WALK-IN</span></span>
+					</div>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="j.location" class="ng-binding">Bangalore</span>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="functionFormat(j.jobfunction)" class="ng-binding"> Consultancy</span>
+				</div>
+				<div class="job-info">
+					<span data-ng-bind="j.experience" class="ng-binding">4-12</span><span> <span data-msg="" data-key="prereg.years">years</span></span>
+					<div class="float-right walk-mobile">
+						<span data-ng-bind="j.dateApplyBy" class="ng-binding">31- Dec-2025</span>
+					</div>
+				</div>
+				<div class="job-info date-desktop">
+					<span data-ng-bind="j.dateApplyBy" class="ng-binding">31- Dec-2025</span>
+					<div class="float-right walk-desktop">
+						<span class="walk-in-logo ng-hide" data-ng-show="j.walkin"><img src="resources/images/icons/walk-in.jpg"><span data-msg="" data-key="candSearchJobResult.walkInIcon" class="walk-in-text">WALK-IN</span></span>
+					</div>
+				</div>
+			</div>
+			<div class="skill-bar">
+				<div class="centered-text float-left addStar-next hand" style="margin-right: 10px;" data-ng-click="jobSearchInTray( j ) ? deleteJobFromTray(j) : addJobToTray( j );">
+					<img data-ng-src="resources/images/job/fav_regular.png" src="resources/images/job/fav_regular.png">
+				</div>
+				<div class="inline-block"><span data-ng-bind="j.skills" class="ng-binding">Microsoft Dynamics CRM  |  Microsoft CRM</span></div>
 				<div class="inline-block float-right padding-right-10 ng-hide" data-ng-show="j.youtubeUrl!=null" data-ng-click="startVideo(j.youtubeUrl,j.jobId)">
 					<img class="hand" src="resources/images/icons/video-play-icon.png"><span class="padding-left-10 font-16-regular" data-msg="" data-key="candSearchJobResult.play">Play</span>
 				</div>

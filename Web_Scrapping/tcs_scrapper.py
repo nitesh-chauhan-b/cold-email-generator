@@ -4,11 +4,15 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+from query_Manager import  QuerySingleton
+instance = QuerySingleton()
+print("Scrapping Data for query :",instance.query,"from TCS...")
+query= instance.query
 
 driver = webdriver.Firefox()
 
 wait = WebDriverWait(driver,10)
-query = "python"
+# query = "python"
 i=1
 
 try:    

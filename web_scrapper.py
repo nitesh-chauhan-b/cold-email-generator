@@ -3,7 +3,7 @@ import streamlit as st
 import website_scrapper
 from Web_Scrapping.query_Manager import QuerySingleton
 
-st.header("🔍 Search Latest Jobs")
+st.header("🔍 Scrap Latest Jobs")
 query = st.text_input("Enter Title of the Job",placeholder="Like Python, AI/ML etc.")
 
 scrap_btn =st.button("Get Latest Data")

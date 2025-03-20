@@ -10,6 +10,8 @@ def scrap():
     subprocess.run(["python","Web_Scrapping/cognizant_scrapper.py"])
     subprocess.run(["python","Web_Scrapping/oracle_scrapper.py"])
     subprocess.run(["python","Web_Scrapping/sap_scrapper.py"])
+    subprocess.run(["python","Web_Scrapping/cisco_scrapper.py"])
+    subprocess.run(["python","Web_Scrapping/wipro_scrapper.py"])
 
     return True
 
@@ -22,12 +24,14 @@ def collect():
     subprocess.run(["python","Web_Scrapping/cognizant_collector.py"])
     subprocess.run(["python","Web_Scrapping/oracle_collector.py"])
     subprocess.run(["python","Web_Scrapping/sap_collector.py"])
+    subprocess.run(["python","Web_Scrapping/cisco_collector.py"])
+    subprocess.run(["python","Web_Scrapping/wipro_collector.py"])
 
     return True
 
 def save_data():
     subprocess.run(["python","combine_scrapped_data.py"])
-    print("The data has has been saved successfully!")
+    print("The data has been saved successfully!")
     return True
 
 if __name__ =="__main__":

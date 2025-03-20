@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 
-
+st.title("Search Jobs")
 try:
     jobs = pd.read_csv("Web_Scrapping/collection/All_Jobs.csv")
 
