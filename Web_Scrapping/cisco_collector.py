@@ -12,6 +12,7 @@ pages= sorted(pages, key=lambda x: int(''.join(filter(str.isdigit, x))) if any(c
 # print(pages)
 
 try:
+    print("Collecting Data from Cisco...")
     for path in pages:
         # print(path)
         file_path = f"Web_Scrapping/scrapped_data/cisco_data/{path}"

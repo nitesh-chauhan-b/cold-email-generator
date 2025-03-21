@@ -31,7 +31,7 @@ try:
                 job_title = card.find("a").text
 
                 job_link  = card.find("a")["href"]
-                job_link = "https://careers.cognizant.com/"+job_link
+                job_link = "https://careers.cognizant.com"+job_link
 
                 #collection of data
                 job_collection = card.find_all("li",attrs={"class":"list-inline-item"})
@@ -48,7 +48,7 @@ try:
 
                 data["Field"].append(job_field)
                 data["Title"].append(job_title)
-                data["Company"].append("IBM")
+                data["Company"].append("Cognizant")
                 data["Posted At"].append("NA")
                 data["Location"].append(job_location)
                 data["Link"].append(job_link)

@@ -11,6 +11,7 @@ pages = os.listdir("Web_Scrapping/scrapped_data/wipro_data")
 pages= sorted(pages, key=lambda x: int(''.join(filter(str.isdigit, x))) if any(c.isdigit() for c in x) else x)
 # print(pages)
 try:
+    print("Collecting Data from Wipro...")
     for page in pages:
         # print(page)
         file_path = f"Web_Scrapping/scrapped_data/wipro_data/{page}"

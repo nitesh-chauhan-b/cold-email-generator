@@ -7,7 +7,7 @@ import time
 
 from query_Manager import  QuerySingleton
 instance = QuerySingleton()
-print("Scrapping Data for query :",instance.query,"from Apple...")
+print("Scrapping Data for query :",instance.query,"from Wipro...")
 query= instance.query
 
 driver = webdriver.Firefox()
