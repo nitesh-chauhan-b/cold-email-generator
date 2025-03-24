@@ -11,7 +11,8 @@ from langchain_google_community import GmailToolkit
 from langgraph.prebuilt import create_react_agent
 from langgraph.checkpoint.memory import MemorySaver
 from langchain_core.messages import SystemMessage,HumanMessage
-
+import pickle
+import json
 
 #LLM
 llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash",api_key=SecretStr(os.getenv("GOOGLE_API_KEY")))
@@ -34,13 +35,21 @@ def setup_gmail_toolkit():
         get_gmail_credentials
     )
 
+    #Reading the token file from pickle
+    # with open("token.pkl","rb") as file:
+    #     token_file = pickle.load(file)
+    #
+    #     #Converting to  json
+    #     # token_file = json.loads(token_file)
+
 
     #For getting gmail credentials
     credentials = get_gmail_credentials(
         scopes=["https://mail.google.com/"],
-        client_secrets_file="credentials.json"
-
-        #Token file is already generated
+        client_secrets_file="credentials.json",
+        # Token file if it is already generated
+        token_file="token.json"
+        # token_file = token_file
     )
 
 
@@ -93,7 +102,7 @@ def activate_email_draft_agent(generated_email,recipient_email):
     # Setting up agent for drafting email
     try:
         if os.path.exists("credentials.json"):
-            if os.path.exists("Web_Scrapping/token.json"):
+            if os.path.exists("token.pkl"):
                 # Setting up gmail toolkit
 
                 gmailToolKit = setup_gmail_toolkit()
@@ -116,18 +125,18 @@ def activate_email_draft_agent(generated_email,recipient_email):
 
                         if agent_operation:
                             print("The Email is Successfully Drafted!! You Can check it on Gmail.")
-                            return "The Email is Successfully Drafted!! You Can check it on Gmail."
+                            return [True,"Success"]
                         else:
                             print("There is some problem!!")
-                            return "There is some problem!!"
+                            return [False,"There is some problem!!"]
 
             else:
                 print("You Need to Authorize Gmail for this operation.")
-                return "You Need to Authorize Gmail for this operation."
+                return [False,"You Need to Authorize Gmail for this operation. Please Login"]
 
     except Exception as e:
         print(e)
-        return f"Opps some error has occurred :{e}"
+        return [False,f"Error Message : {e}"]
 if __name__ =="__main__":
 
     # Defining query

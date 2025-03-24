@@ -51,8 +51,11 @@ try:
                 # Calling agent
                 agent_response = agent.activate_email_draft_agent(email_text, recipient_email)
 
-                container.write(f"**{agent_response}**")
-                status.update(label="✅ Email saved in drafts!", state="complete")
+                if agent_response[0]:
+                    container.write(f"**{agent_response}**")
+                    status.update(label="✅ Email saved in drafts!", state="complete")
+                else:
+                    status.update(label=f"\n\n❌ Sorry It Seems like there is some Issue, Please see the message below, \n\n\n {agent_response[1]}",state="error")
 
         #Draft Email button
         container.button("Save Email In Draft", on_click=daft_email)
