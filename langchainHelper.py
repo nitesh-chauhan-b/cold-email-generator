@@ -1,4 +1,5 @@
 #Creating a Cold Email Generator
+import os.path
 import uuid
 
 from langchain_groq import ChatGroq
@@ -9,7 +10,7 @@ import pandas as pd
 import chromadb
 from langchain_core.output_parsers import JsonOutputParser
 import utils
-
+import json
 #Loading Environment variables
 load_dotenv()
 
@@ -107,7 +108,7 @@ def get_relevant_links(json_data):
     #getting collection
     collection = client.get_or_create_collection("company_portfolio")
 
-    #Getting relevant links based on the skills from scrapped JSON data
+    #Getting relevant links based on the skills from scrapped JSON_data
     links =[]
     if json_data["skills"]:
         skills = collection.query(
@@ -143,26 +144,63 @@ def get_relevant_links(json_data):
 
 def get_cold_email(json_data,links):
 
+    # Providing Default data to use for email generation
+
+    company_name = "DRC Systems India Limited."
+    company_exp = "12+ years"
+    company_des = """        
+    DRC Systems India Limited Which is service based company and would like client to hire them for the job.
+    This company has a 12+ years of experience in development. Is one of the best known for their service.
+    """
+    user_name = "Nitesh"
+    user_position = "Marketing Team"
+    company_email = "info@drcsystems.com"
+
+    #Getting Stored Details about company
+    if os.path.exists("JSON_data/user_account.json"):
+        #Reading data about company
+        with open("JSON_data/user_account.json","r") as file:
+            user_account = json.load(file)
+
+            if "company_name" in user_account:
+                company_name = user_account["company_name"]
+                company_exp = user_account["company_field_experience"]
+                company_des = user_account["company_description"]
+                user_name= user_account["user_name"]
+                user_position= user_account["user_position"]
+                company_email= user_account["company_email"]
+
+
     #Creating a prompt to get the cold email based on the given info of json_data,links to find most relevant link
     prompt_email = PromptTemplate(
-        input_variables=["json_data","company_name","link_list"],
+        input_variables=["json_data", "company_name", "company_exp", "company_des", "user_name", "user_position",
+                         "company_email", "link_list"],
         template="""
+
+        ### INSTRUCTIONS
+        You task is to generate a professional cold email based on the given JSON data and Company Details.
+
         ### JOB DESCRIPTION
         {json_data}
 
-        ### INSTRUCTIONS
-        Generate a Professional Cold Email from above given data. Do not include heading(NO PREAMBLE) or anything else apart from just email.
-        
-        {company_name} Which is service based company and would like client to hire them for the job.
-        This company has a 12+ years of experience in development. Is one of the best known for their service.
-        It should be a best combination of professional and marketing email.
-        The cold email must be professional email from company {company_name}.
+        ### Details about sending company
+        company name : {company_name}
+        company exprience : {company_exp}
+        company Description : {company_des}
 
-        Also add most relevant links from the following to show case {company_name} work {link_list}
+        It is one of the best known for thier service.
+        It should be a best combination of professional and marketing email.
+        The cold email must be professional email from companay {company_name}.
+
+        Also add most relevent links from the following to show case {company_name} work {link_list}
+
         Information to use in case required,
-        Contact Information : info@drcsystems.com
-        Your Name : Kamal
-        Position : Marketing Department
+        Contact Information : {company_email}
+        Your Name : {user_name}
+        Position : {user_position}
+
+        ## ONLY VALID INFORMATION.
+        ## EMAIL(with NO PREAMBLE)
         """
     )
 
@@ -172,7 +210,18 @@ def get_cold_email(json_data,links):
 
     #Creating a chain to get the cold email
     email_chain = prompt_email | llm
-    cold_email = email_chain.invoke(input={"json_data":json_data,"company_name":"DRC Systems India Limited.","link_list":links})
+    cold_email = email_chain.invoke(
+        input={
+                "json_data":json_data,
+               "company_name":company_name,
+               "link_list":links,
+                "company_exp":company_exp,
+                "company_email":company_email,
+                "user_name":user_name,
+                "user_position":user_position,
+                "company_des":company_des
+               }
+    )
 
     # print(cold_email.content)
     return cold_email

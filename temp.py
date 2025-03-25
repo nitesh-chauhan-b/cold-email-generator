@@ -23,7 +23,7 @@ def get_web_data(url):
     loader = WebBaseLoader(web_path=url)
     page_data = loader.load().pop().page_content
 
-    #Passing page_data to llm to get the required JSON data
+    #Passing page_data to llm to get the required JSON_data
     #Prompt template
 
     prompt_text = PromptTemplate(

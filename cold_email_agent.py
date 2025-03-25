@@ -46,9 +46,9 @@ def setup_gmail_toolkit():
     #For getting gmail credentials
     credentials = get_gmail_credentials(
         scopes=["https://mail.google.com/"],
-        client_secrets_file="credentials.json",
+        client_secrets_file="JSON_data/credentials.json",
         # Token file if it is already generated
-        token_file="token.json"
+        token_file="JSON_data/token.json"
         # token_file = token_file
     )
 
@@ -101,8 +101,8 @@ def query_email_agent(query,email_agent):
 def activate_email_draft_agent(generated_email,recipient_email):
     # Setting up agent for drafting email
     try:
-        if os.path.exists("credentials.json"):
-            if os.path.exists("token.pkl"):
+        if os.path.exists("JSON_data/credentials.json"):
+            if os.path.exists("JSON_data/token.json"):
                 # Setting up gmail toolkit
 
                 gmailToolKit = setup_gmail_toolkit()

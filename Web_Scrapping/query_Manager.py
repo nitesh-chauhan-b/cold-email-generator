@@ -12,7 +12,7 @@ class SingletonMeta(type):
 
 class QuerySingleton(metaclass=SingletonMeta):
     """ Singleton class to store and persist a query across programs. """
-    _query_file = "/home/niteshchauhan/PycharmProjects/coldEmailGenerator/app/query_store.json"  # File to store query persistently
+    _query_file = "/home/niteshchauhan/PycharmProjects/coldEmailGenerator/app/JSON_data/query_store.json"  # File to store query persistently
 
     def __init__(self):
         self._query = self._load_query()

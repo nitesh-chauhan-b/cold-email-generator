@@ -18,7 +18,13 @@ try:
         json_data = langchainHelper.get_json_data(page_data)
 
         #Storing the csv file into a vector database for similaritySearch
-        langchainHelper.store_company_portfolio("resource/my_portfolio.csv")
+        #For Using Uploaded Portfolio
+        if os.path.exists("resource/company_portfolio.csv"):
+            langchainHelper.store_company_portfolio("resource/company_portfolio.csv")
+            print("Using Client Portfolio")
+        #If the portfolio is not uploaded then using default portfolio
+        else:
+            langchainHelper.store_company_portfolio("resource/my_portfolio.csv")
 
         #Getting relevant links from the vector data for providing reference into email
         relevant_portfolio_links = langchainHelper.get_relevant_links(json_data)

@@ -1,516 +1,647 @@
 ,Field,Title,Company,Posted At,Location,Link
-0,Software Engineering,Python For Insights,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Python-For-Insights-560035/1151629855/
-1,Software Engineering,Developer - L4,Wipro,"Mar 21, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1148180755/
-2,Software Engineering,Developer - L4,Wipro,"Mar 3, 2025","Bengaluru, IN, 560035
+0,Software Engineering,Gen AI Engineer - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Gen-AI-Engineer-L1-560035/1151766855/
+1,Software Engineering,AIML GCP Engineer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AIML-GCP-Engineer-560035/1146834255/
+2,Software Engineering,AI Engineer - L1,Wipro,"Mar 25, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Engineer-L1-560035/1152540955/
+3,Software Engineering,Machine Learning Engineer,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Machine-Learning-Engineer-560035/1152011055/
+4,Software Engineering,Solution Architect - L1,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-L1-560035/1151954555/
+5,Software Engineering,Data Scientist - L3,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-L3-560035/1147480755/
+6,Software Engineering,Data Scientist - L3,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-L3-560035/1147480655/
+7,Software Engineering,Solution Architect - L1,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Solution-Architect-L1-500032/1150918955/
+8,Software Engineering,GEN AI - lead,Wipro,"Mar 17, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-GEN-AI-lead-560035/1151500455/
+9,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1150918155/
+10,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1147480855/
+11,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 13, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Data-Scientist-Lead-L1-600119/1147277655/
+12,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1147480955/
+13,Software Engineering,Data Scientist,Wipro,"Mar 9, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Scientist-500032/1146727055/
+14,Software Engineering,Gen AI Solution Architect,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Gen-AI-Solution-Architect-600119/1147471155/
+15,Software Engineering,Lab45 - AI Scientist,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-AI-Scientist-560035/1140002555/
+16,Software Engineering,Developer - L4,Wipro,"Mar 21, 2025","Greater Noida, IN
+            
+                +1 more…",https://careers.wipro.com//job/Greater-Noida-Developer-L4/1148181555/
+17,Software Engineering,Developer - L3,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L3-500032/1151787055/
+18,Software Engineering,AI Lead - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1151777455/
+19,Software Engineering,Gen Ai Architect,Wipro,"Mar 22, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Gen-Ai-Architect-600119/1148297355/
+20,Software Engineering,DataIku Data Science Architect,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-DataIku-Data-Science-Architect-560035/1151634155/
+21,Software Engineering,Developer - L4,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1147072955/
+22,Software Engineering,Technology Architect - L1,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Technology-Architect-L1-500032/1151801155/
+23,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 24, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Scientist-Lead-L1-500032/1152442955/
+24,Software Engineering,Developer - L4,Wipro,"Mar 25, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-L4-411005/1152562055/
+25,Software Engineering,Python For Insights,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Python-For-Insights-560035/1151629855/
+26,Software Engineering,Developer - L4,Wipro,"Mar 21, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1148180755/
+27,Software Engineering,Developer - L4,Wipro,"Mar 3, 2025","Bengaluru, IN, 560035
             
                 +1 more…",https://careers.wipro.com//job/Bengaluru-Developer-L4-560035/1149583955/
-3,Software Engineering,Developer L4,Wipro,"Feb 26, 2025","Bengaluru, IN, 560035
+28,Software Engineering,Developer L4,Wipro,"Feb 26, 2025","Bengaluru, IN, 560035
             
                 +1 more…",https://careers.wipro.com//job/Bengaluru-Developer-L4-560035/1148895255/
-4,Software Engineering,Data Scientist,Wipro,"Mar 9, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Scientist-500032/1146727055/
-5,Software Engineering,Lead Administrator,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Lead-Administrator-500032/1147571555/
-6,Software Engineering,Developer - L4,Wipro,"Mar 14, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1147313655/
-7,Software Engineering,Lead Administrator(Contract),Wipro,"Mar 17, 2025","Delhi, IN, 110044",https://careers.wipro.com//job/Delhi-Lead-Administrator%28Contract%29-110044/1141114555/
-8,Software Engineering,"Data Science- GEN AI, AWS, Python",Wipro,"Feb 23, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Science-GEN-AI%2C-AWS%2C-Python-500032/1148537855/
-9,Software Engineering,Senior Python Engineer,Wipro,"Mar 3, 2025","Bengaluru, IN, 560035
+29,Software Engineering,Data Scientist,Wipro,"Mar 9, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Scientist-500032/1146727055/
+30,Software Engineering,Lead Administrator,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Lead-Administrator-500032/1147571555/
+31,Software Engineering,Developer - L4,Wipro,"Mar 14, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1147313655/
+32,Software Engineering,Lead Administrator(Contract),Wipro,"Mar 17, 2025","Delhi, IN, 110044",https://careers.wipro.com//job/Delhi-Lead-Administrator%28Contract%29-110044/1141114555/
+33,Software Engineering,"Data Science- GEN AI, AWS, Python",Wipro,"Feb 23, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Science-GEN-AI%2C-AWS%2C-Python-500032/1148537855/
+34,Software Engineering,Senior Python Engineer,Wipro,"Mar 3, 2025","Bengaluru, IN, 560035
             
                 +2 more…",https://careers.wipro.com//job/Bengaluru-Senior-Python-Engineer-560035/1149601355/
-10,Software Engineering,Analyst,Wipro,"Mar 7, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Analyst-122016/1150192155/
-11,Software Engineering,AIML GCP Lead Engineer,Wipro,"Mar 14, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-AIML-GCP-Lead-Engineer-600119/1143791455/
-12,Software Engineering,Lab45 - AI Scientist,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-AI-Scientist-560035/1140002555/
-13,Software Engineering,Data science with Python Gen AI,Wipro,"Feb 22, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-science-with-Python-Gen-AI-500032/1144921055/
-14,Software Engineering,Dataiku Lead Developer,Wipro,"Mar 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Dataiku-Lead-Developer-600119/1152094555/
-15,Software Engineering,Technical Lead - L1,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1150424455/
-16,Software Engineering,Developer,Wipro,"Mar 1, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1149299755/
-17,Software Engineering,Python Developer(AIML/RAG),Wipro,"Mar 9, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Python-Developer%28AIMLRAG%29-560035/1143220055/
-18,Software Engineering,Solution Architect - L1,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-L1-560035/1151954555/
-19,Software Engineering,Developer - L3,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-L3-560035/1151608255/
-20,Software Engineering,Data Science Lead,Wipro,"Mar 18, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Data-Science-Lead-600119/1151633855/
-21,Software Engineering,ML Engineer,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035
+35,Software Engineering,Analyst,Wipro,"Mar 7, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Analyst-122016/1150192155/
+36,Software Engineering,AIML GCP Lead Engineer,Wipro,"Mar 14, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-AIML-GCP-Lead-Engineer-600119/1143791455/
+37,Software Engineering,Lab45 - AI Scientist,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-AI-Scientist-560035/1140002555/
+38,Software Engineering,Data science with Python Gen AI,Wipro,"Feb 22, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-science-with-Python-Gen-AI-500032/1144921055/
+39,Software Engineering,Dataiku Lead Developer,Wipro,"Mar 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Dataiku-Lead-Developer-600119/1152094555/
+40,Software Engineering,Technical Lead - L1,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1150424455/
+41,Software Engineering,Developer,Wipro,"Mar 1, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1149299755/
+42,Software Engineering,Python Developer(AIML/RAG),Wipro,"Mar 9, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Python-Developer%28AIMLRAG%29-560035/1143220055/
+43,Software Engineering,Solution Architect - L1,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-L1-560035/1151954555/
+44,Software Engineering,Developer - L3,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-L3-560035/1151608255/
+45,Software Engineering,Data Science Lead,Wipro,"Mar 18, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Data-Science-Lead-600119/1151633855/
+46,Software Engineering,ML Engineer,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035
             
                 +2 more…",https://careers.wipro.com//job/Bengaluru-ML-Engineer-560035/1143791255/
-22,Software Engineering,Technical Lead - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1151760355/
-23,Software Engineering,Analyst,Wipro,"Feb 27, 2025","Gurugram, IN, 122016
+47,Software Engineering,Technical Lead - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1151760355/
+48,Software Engineering,Analyst,Wipro,"Feb 27, 2025","Gurugram, IN, 122016
             
                 +1 more…",https://careers.wipro.com//job/Gurugram-Analyst-122016/1149120855/
-24,Software Engineering,GCP BQ/Dataproc Developer,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-GCP-BQDataproc-Developer-560035/1149735055/
-25,Software Engineering,AIML GCP Engineer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AIML-GCP-Engineer-560035/1146834255/
-26,Software Engineering,AI Engineer - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Engineer-L1-560035/1151829555/
-27,Software Engineering,Gen AI Engineer - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Gen-AI-Engineer-L1-560035/1151766855/
-28,Software Engineering,Data Scientist - L3,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-L3-560035/1147480655/
-29,Software Engineering,Data Scientist - L3,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-L3-560035/1147480755/
-30,Software Engineering,Solution Architect - L1,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Solution-Architect-L1-500032/1150918955/
-31,Software Engineering,GEN AI - lead,Wipro,"Mar 17, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-GEN-AI-lead-560035/1151500455/
-32,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1150918155/
-33,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 13, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Data-Scientist-Lead-L1-600119/1147277655/
-34,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1147480855/
-35,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1147480955/
-36,Software Engineering,Data Scientist,Wipro,"Mar 9, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Scientist-500032/1146727055/
-37,Software Engineering,Gen AI Solution Architect,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Gen-AI-Solution-Architect-600119/1147471155/
-38,Software Engineering,Lab45 - AI Scientist,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-AI-Scientist-560035/1140002555/
-39,Software Engineering,Developer - L4,Wipro,"Feb 20, 2025","Greater Noida, IN
+49,Software Engineering,GCP BQ/Dataproc Developer,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-GCP-BQDataproc-Developer-560035/1149735055/
+50,Software Engineering,AIML GCP Engineer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AIML-GCP-Engineer-560035/1146834255/
+51,Software Engineering,AI Engineer - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Engineer-L1-560035/1151829555/
+52,Software Engineering,Gen AI Engineer - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Gen-AI-Engineer-L1-560035/1151766855/
+53,Software Engineering,Data Scientist - L3,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-L3-560035/1147480655/
+54,Software Engineering,Data Scientist - L3,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-L3-560035/1147480755/
+55,Software Engineering,Solution Architect - L1,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Solution-Architect-L1-500032/1150918955/
+56,Software Engineering,GEN AI - lead,Wipro,"Mar 17, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-GEN-AI-lead-560035/1151500455/
+57,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1150918155/
+58,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 13, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Data-Scientist-Lead-L1-600119/1147277655/
+59,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1147480855/
+60,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1147480955/
+61,Software Engineering,Data Scientist,Wipro,"Mar 9, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Scientist-500032/1146727055/
+62,Software Engineering,Gen AI Solution Architect,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Gen-AI-Solution-Architect-600119/1147471155/
+63,Software Engineering,Lab45 - AI Scientist,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-AI-Scientist-560035/1140002555/
+64,Software Engineering,Developer - L4,Wipro,"Feb 20, 2025","Greater Noida, IN
             
                 +1 more…",https://careers.wipro.com//job/Greater-Noida-Developer-L4/1148181555/
-40,Software Engineering,Developer - L3,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L3-500032/1151787055/
-41,Software Engineering,AI Lead - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1151777455/
-42,Software Engineering,Gen Ai Architect,Wipro,"Feb 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Gen-Ai-Architect-600119/1148297355/
-43,Software Engineering,DataIku Data Science Architect,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-DataIku-Data-Science-Architect-560035/1151634155/
-44,Software Engineering,Developer - L4,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1147072955/
-45,Software Engineering,Technology Architect - L1,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Technology-Architect-L1-500032/1151801155/
-46,Software Engineering,Data Science Lead,Wipro,"Mar 18, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Data-Science-Lead-600119/1151633855/
-47,Software Engineering,Developer - L4,Wipro,"Mar 14, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1147313655/
-48,Software Engineering,"Data Science- GEN AI, AWS, Python",Wipro,"Feb 23, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Science-GEN-AI%2C-AWS%2C-Python-500032/1148537855/
-49,Software Engineering,Data science with Python Gen AI,Wipro,"Feb 22, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-science-with-Python-Gen-AI-500032/1144921055/
-50,Software Engineering,AI Lead - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1147103855/
-51,Software Engineering,Solution Architect - L1,Wipro,"Feb 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-L1-560035/1148542655/
-52,Software Engineering,Technical Lead - L1,Wipro,"Feb 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1148545955/
-53,Software Engineering,Solution Architect - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-L1-560035/1150778055/
-54,Software Engineering,Developer,Wipro,"Mar 8, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1146563455/
-55,Software Engineering,Developer,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1140145755/
-56,Software Engineering,BMC Helix ITSM,Wipro,"Mar 2, 2025","Kochi, IN",https://careers.wipro.com//job/Kochi-BMC-Helix-ITSM/1142373055/
-57,Software Engineering,Systems Hardware Architect - L2,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Systems-Hardware-Architect-L2-560035/1149672355/
-58,Software Engineering,Systems Hardware Architect - L3,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Systems-Hardware-Architect-L3-560035/1147077955/
-59,Software Engineering,Systems Hardware Architect - L2,Wipro,"Mar 6, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Systems-Hardware-Architect-L2-560035/1150008455/
-60,Software Engineering,Systems Hardware Architect - L2,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Systems-Hardware-Architect-L2-560035/1147475655/
-61,Software Engineering,Salesforce Vlocity Lead,Wipro,"Mar 20, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Salesforce-Vlocity-Lead-411005/1144435355/
-62,Software Engineering,Salesforce Industry -  Vlocity Technical Architect,Wipro,"Mar 17, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Salesforce-Industry-Vlocity-Technical-Architect-122016/1151415355/
-63,Software Engineering,UIPATH Architect - L1,Wipro,"Mar 12, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-UIPATH-Architect-L1-600119/1150827255/
-64,Software Engineering,Product Architect - L1,Wipro,"Mar 10, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Product-Architect-L1-600119/1150534155/
-65,Software Engineering,Product Architect - L1,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Architect-L1-560035/1150534555/
-66,Software Engineering,Product Architect - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Architect-L1-560035/1148004655/
-67,Software Engineering,Developer(Contract),Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer%28Contract%29-560035/1150917355/
-68,Software Engineering,Developer,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-560035/1149670855/
-69,Software Engineering,Platform Dev Architect - L2,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Platform-Dev-Architect-L2-560035/1149866255/
-70,Software Engineering,Platform Dev Architect - L1,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Platform-Dev-Architect-L1-560035/1145552555/
-71,Software Engineering,Developer,Wipro,"Mar 16, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-560035/1140926155/
-72,Software Engineering,Product Engineer,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Engineer-560035/1143845655/
-73,Software Engineering,Automation Engineer - L3,Wipro,"Mar 17, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Automation-Engineer-L3-560035/1144128455/
-74,Software Engineering,Domain Consultant - L2,Wipro,"Mar 10, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Domain-Consultant-L2-122016/1150423455/
-75,Software Engineering,Solution Architect - L1,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Solution-Architect-L1-500032/1150918955/
-76,Software Engineering,Developer - L4,Wipro,"Mar 21, 2025","Greater Noida, IN
+65,Software Engineering,Developer - L3,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L3-500032/1151787055/
+66,Software Engineering,AI Lead - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1151777455/
+67,Software Engineering,Gen Ai Architect,Wipro,"Feb 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Gen-Ai-Architect-600119/1148297355/
+68,Software Engineering,DataIku Data Science Architect,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-DataIku-Data-Science-Architect-560035/1151634155/
+69,Software Engineering,Developer - L4,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1147072955/
+70,Software Engineering,Technology Architect - L1,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Technology-Architect-L1-500032/1151801155/
+71,Software Engineering,Data Science Lead,Wipro,"Mar 18, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Data-Science-Lead-600119/1151633855/
+72,Software Engineering,Developer - L4,Wipro,"Mar 14, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1147313655/
+73,Software Engineering,"Data Science- GEN AI, AWS, Python",Wipro,"Feb 23, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Science-GEN-AI%2C-AWS%2C-Python-500032/1148537855/
+74,Software Engineering,Data science with Python Gen AI,Wipro,"Feb 22, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-science-with-Python-Gen-AI-500032/1144921055/
+75,Software Engineering,AI Lead - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1147103855/
+76,Software Engineering,Solution Architect - L1,Wipro,"Feb 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-L1-560035/1148542655/
+77,Software Engineering,Technical Lead - L1,Wipro,"Feb 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1148545955/
+78,Software Engineering,Solution Architect - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-L1-560035/1150778055/
+79,Software Engineering,Developer,Wipro,"Mar 8, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1146563455/
+80,Software Engineering,Developer,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1140145755/
+81,Software Engineering,BMC Helix ITSM,Wipro,"Mar 2, 2025","Kochi, IN",https://careers.wipro.com//job/Kochi-BMC-Helix-ITSM/1142373055/
+82,Software Engineering,Systems Hardware Architect - L2,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Systems-Hardware-Architect-L2-560035/1149672355/
+83,Software Engineering,Systems Hardware Architect - L3,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Systems-Hardware-Architect-L3-560035/1147077955/
+84,Software Engineering,Systems Hardware Architect - L2,Wipro,"Mar 6, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Systems-Hardware-Architect-L2-560035/1150008455/
+85,Software Engineering,Systems Hardware Architect - L2,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Systems-Hardware-Architect-L2-560035/1147475655/
+86,Software Engineering,Salesforce Vlocity Lead,Wipro,"Mar 20, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Salesforce-Vlocity-Lead-411005/1144435355/
+87,Software Engineering,Salesforce Industry -  Vlocity Technical Architect,Wipro,"Mar 17, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Salesforce-Industry-Vlocity-Technical-Architect-122016/1151415355/
+88,Software Engineering,UIPATH Architect - L1,Wipro,"Mar 12, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-UIPATH-Architect-L1-600119/1150827255/
+89,Software Engineering,Product Architect - L1,Wipro,"Mar 10, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Product-Architect-L1-600119/1150534155/
+90,Software Engineering,Product Architect - L1,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Architect-L1-560035/1150534555/
+91,Software Engineering,Product Architect - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Architect-L1-560035/1148004655/
+92,Software Engineering,Developer(Contract),Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer%28Contract%29-560035/1150917355/
+93,Software Engineering,Developer,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-560035/1149670855/
+94,Software Engineering,Platform Dev Architect - L2,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Platform-Dev-Architect-L2-560035/1149866255/
+95,Software Engineering,Platform Dev Architect - L1,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Platform-Dev-Architect-L1-560035/1145552555/
+96,Software Engineering,Developer,Wipro,"Mar 16, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-560035/1140926155/
+97,Software Engineering,Product Engineer,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Engineer-560035/1143845655/
+98,Software Engineering,Automation Engineer - L3,Wipro,"Mar 17, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Automation-Engineer-L3-560035/1144128455/
+99,Software Engineering,Domain Consultant - L2,Wipro,"Mar 10, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Domain-Consultant-L2-122016/1150423455/
+100,Software Engineering,Solution Architect - L1,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Solution-Architect-L1-500032/1150918955/
+101,Software Engineering,Developer - L4,Wipro,"Mar 21, 2025","Greater Noida, IN
             
                 +1 more…",https://careers.wipro.com//job/Greater-Noida-Developer-L4/1148181555/
-77,Software Engineering,Gen AI Solution Architect,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Gen-AI-Solution-Architect-600119/1147471155/
-78,Software Engineering,Lab45 - AI Scientist,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-AI-Scientist-560035/1140002555/
-79,Software Engineering,AI Lead - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1151777455/
-80,Software Engineering,Gen Ai Architect,Wipro,"Feb 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Gen-Ai-Architect-600119/1148297355/
-81,Software Engineering,Gen AI Engineer (Lead),Wipro,"Mar 8, 2025","Bengaluru, IN, 560035
+102,Software Engineering,Gen AI Solution Architect,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Gen-AI-Solution-Architect-600119/1147471155/
+103,Software Engineering,Lab45 - AI Scientist,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-AI-Scientist-560035/1140002555/
+104,Software Engineering,AI Lead - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1151777455/
+105,Software Engineering,Gen Ai Architect,Wipro,"Feb 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Gen-Ai-Architect-600119/1148297355/
+106,Software Engineering,Gen AI Engineer (Lead),Wipro,"Mar 8, 2025","Bengaluru, IN, 560035
             
                 +9 more…",https://careers.wipro.com//job/Bengaluru-Gen-AI-Engineer-%28Lead%29-560035/1146567955/
-82,Software Engineering,"Tools Practice lead - GTM, Analyst, Marketing",Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Tools-Practice-lead-GTM%2C-Analyst%2C-Marketing-560035/1150443255/
-83,Software Engineering,GEN AI - lead,Wipro,"Mar 17, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-GEN-AI-lead-560035/1151500455/
-84,Software Engineering,Data Scientist - L3,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-L3-560035/1147480655/
-85,Software Engineering,Data Scientist - L3,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-L3-560035/1147480755/
-86,Software Engineering,Marketing Lead for Enterprise Applications,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Marketing-Lead-for-Enterprise-Applications-560035/1150126055/
-87,Software Engineering,Data Scientist,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035
+107,Software Engineering,"Tools Practice lead - GTM, Analyst, Marketing",Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Tools-Practice-lead-GTM%2C-Analyst%2C-Marketing-560035/1150443255/
+108,Software Engineering,GEN AI - lead,Wipro,"Mar 17, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-GEN-AI-lead-560035/1151500455/
+109,Software Engineering,Data Scientist - L3,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-L3-560035/1147480655/
+110,Software Engineering,Data Scientist - L3,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-L3-560035/1147480755/
+111,Software Engineering,Marketing Lead for Enterprise Applications,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Marketing-Lead-for-Enterprise-Applications-560035/1150126055/
+112,Software Engineering,Data Scientist,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035
             
                 +2 more…",https://careers.wipro.com//job/Bengaluru-Data-Scientist-560035/1149114555/
-88,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1150918155/
-89,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1147480955/
-90,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 13, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Data-Scientist-Lead-L1-600119/1147277655/
-91,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1147480855/
-92,Software Engineering,AI solution architect,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035
+113,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1150918155/
+114,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1147480955/
+115,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 13, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Data-Scientist-Lead-L1-600119/1147277655/
+116,Software Engineering,Data Scientist Lead - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Data-Scientist-Lead-L1-560035/1147480855/
+117,Software Engineering,AI solution architect,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035
             
                 +3 more…",https://careers.wipro.com//job/Bengaluru-AI-solution-architect-560035/1147071255/
-93,Software Engineering,Marketing Manager for DX,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Marketing-Manager-for-DX-560035/1150125855/
-94,Software Engineering,Techno Functional Consultant,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Techno-Functional-Consultant-560035/1142925755/
-95,Software Engineering,AI Lead - L1,Wipro,"Mar 5, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-AI-Lead-L1-500032/1145917055/
-96,Software Engineering,AI Lead - L1,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1151937155/
-97,Software Engineering,AI Lead - L1,Wipro,"Feb 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1148529855/
-98,Software Engineering,AI Lead - L1,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1150630755/
-99,Software Engineering,Developer - L4,Wipro,"Mar 12, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-L4-411005/1147080255/
-100,Software Engineering,Python Developer,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Python-Developer-500032/1150794955/
-101,Software Engineering,Senior Python Engineer,Wipro,"Mar 7, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Python-Engineer-500032/1150133255/
-102,Software Engineering,ML Engineer,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-ML-Engineer-560035/1143698655/
-103,Software Engineering,Data Scientist,Wipro,"Mar 9, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Scientist-500032/1146727055/
-104,Software Engineering,Developer - L4,Wipro,"Mar 14, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1147313655/
-105,Software Engineering,"Data Science- GEN AI, AWS, Python",Wipro,"Feb 23, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Science-GEN-AI%2C-AWS%2C-Python-500032/1148537855/
-106,Software Engineering,Data Science Lead,Wipro,"Mar 18, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Data-Science-Lead-600119/1151633855/
-107,Software Engineering,Data science with Python Gen AI,Wipro,"Feb 22, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-science-with-Python-Gen-AI-500032/1144921055/
-108,Software Engineering,Gen AI Engineer - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Gen-AI-Engineer-L1-560035/1151766855/
-109,Software Engineering,AI Engineer - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Engineer-L1-560035/1151829555/
-110,Software Engineering,Solution Architect - L1,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-L1-560035/1151954555/
-111,Software Engineering,Developer,Wipro,"Mar 1, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1149299755/
-112,Software Engineering,Technical Lead - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1151760355/
-113,Software Engineering,AIML GCP Engineer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AIML-GCP-Engineer-560035/1146834255/
-114,Software Engineering,Technology Architect - L1,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Technology-Architect-L1-500032/1151801155/
-115,Software Engineering,Lab45 - AI Scientist,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-AI-Scientist-560035/1151600855/
-116,Software Engineering,Lab45 - Product Director for Strategic Platforms & Advanced AI,Wipro,"Feb 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-Product-Director-for-Strategic-Platforms-&-Advanced-AI-560035/1144728155/
-117,Software Engineering,Data science with Python Gen AI,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-science-with-Python-Gen-AI-500032/1147477555/
-118,Software Engineering,Delivery Manager - L1,Wipro,"Mar 4, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Delivery-Manager-L1-411005/1146122655/
-119,Software Engineering,Delivery Manager - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Delivery-Manager-L1-560035/1147523655/
-120,Software Engineering,Delivery Manager - L2,Wipro,"Mar 19, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Delivery-Manager-L2-600119/1151775955/
-121,Software Engineering,Sr Program Manager,Wipro,"Mar 17, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Sr-Program-Manager-600119/1151465655/
-122,Software Engineering,Lab45 - Senior Architect - Emerging Technologies & Innovation,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-Senior-Architect-Emerging-Technologies-&-Innovation-560035/1147474655/
-123,Software Engineering,Solution Engineer(Contract),Wipro,"Mar 9, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Engineer%28Contract%29-560035/1143142955/
-124,Software Engineering,Solution Engineer,Wipro,"Mar 13, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Solution-Engineer-400708/1150960955/
-125,Software Engineering,Technical Lead - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1151760355/
-126,Software Engineering,Developer - L4,Wipro,"Mar 12, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-L4-411005/1147080255/
-127,Software Engineering,Tools Practice Engg Lead,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Tools-Practice-Engg-Lead-560035/1150442655/
-128,Software Engineering,"Tools Practice lead - GTM, Analyst, Marketing",Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Tools-Practice-lead-GTM%2C-Analyst%2C-Marketing-560035/1150443255/
-129,Software Engineering,Developer,Wipro,"Mar 1, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1149299755/
-130,Software Engineering,Marketing Manager for DX,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Marketing-Manager-for-DX-560035/1150125855/
-131,Software Engineering,Data Scientist,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035
+118,Software Engineering,Marketing Manager for DX,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Marketing-Manager-for-DX-560035/1150125855/
+119,Software Engineering,Techno Functional Consultant,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Techno-Functional-Consultant-560035/1142925755/
+120,Software Engineering,AI Lead - L1,Wipro,"Mar 5, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-AI-Lead-L1-500032/1145917055/
+121,Software Engineering,AI Lead - L1,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1151937155/
+122,Software Engineering,AI Lead - L1,Wipro,"Feb 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1148529855/
+123,Software Engineering,AI Lead - L1,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1150630755/
+124,Software Engineering,Developer - L4,Wipro,"Mar 12, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-L4-411005/1147080255/
+125,Software Engineering,Python Developer,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Python-Developer-500032/1150794955/
+126,Software Engineering,Senior Python Engineer,Wipro,"Mar 7, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Python-Engineer-500032/1150133255/
+127,Software Engineering,ML Engineer,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-ML-Engineer-560035/1143698655/
+128,Software Engineering,Data Scientist,Wipro,"Mar 9, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Scientist-500032/1146727055/
+129,Software Engineering,Developer - L4,Wipro,"Mar 14, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1147313655/
+130,Software Engineering,"Data Science- GEN AI, AWS, Python",Wipro,"Feb 23, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Science-GEN-AI%2C-AWS%2C-Python-500032/1148537855/
+131,Software Engineering,Data Science Lead,Wipro,"Mar 18, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Data-Science-Lead-600119/1151633855/
+132,Software Engineering,Data science with Python Gen AI,Wipro,"Feb 22, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-science-with-Python-Gen-AI-500032/1144921055/
+133,Software Engineering,Gen AI Engineer - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Gen-AI-Engineer-L1-560035/1151766855/
+134,Software Engineering,AI Engineer - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Engineer-L1-560035/1151829555/
+135,Software Engineering,Solution Architect - L1,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-L1-560035/1151954555/
+136,Software Engineering,Developer,Wipro,"Mar 1, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1149299755/
+137,Software Engineering,Technical Lead - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1151760355/
+138,Software Engineering,AIML GCP Engineer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AIML-GCP-Engineer-560035/1146834255/
+139,Software Engineering,Technology Architect - L1,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Technology-Architect-L1-500032/1151801155/
+140,Software Engineering,Lab45 - AI Scientist,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-AI-Scientist-560035/1151600855/
+141,Software Engineering,Lab45 - Product Director for Strategic Platforms & Advanced AI,Wipro,"Feb 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-Product-Director-for-Strategic-Platforms-&-Advanced-AI-560035/1144728155/
+142,Software Engineering,Data science with Python Gen AI,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-science-with-Python-Gen-AI-500032/1147477555/
+143,Software Engineering,Delivery Manager - L1,Wipro,"Mar 4, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Delivery-Manager-L1-411005/1146122655/
+144,Software Engineering,Delivery Manager - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Delivery-Manager-L1-560035/1147523655/
+145,Software Engineering,Delivery Manager - L2,Wipro,"Mar 19, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Delivery-Manager-L2-600119/1151775955/
+146,Software Engineering,Sr Program Manager,Wipro,"Mar 17, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Sr-Program-Manager-600119/1151465655/
+147,Software Engineering,Lab45 - Senior Architect - Emerging Technologies & Innovation,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-Senior-Architect-Emerging-Technologies-&-Innovation-560035/1147474655/
+148,Software Engineering,Solution Engineer(Contract),Wipro,"Mar 9, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Engineer%28Contract%29-560035/1143142955/
+149,Software Engineering,Solution Engineer,Wipro,"Mar 13, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Solution-Engineer-400708/1150960955/
+150,Software Engineering,Developer - L4,Wipro,"Mar 14, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1147313655/
+151,Software Engineering,Data Scientist Lead - L2,Wipro,"Mar 24, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Data-Scientist-Lead-L2-411005/1152415255/
+152,Software Engineering,AI Engineer - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Engineer-L1-560035/1151829555/
+153,Software Engineering,Developer - L4,Wipro,"Mar 12, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-L4-411005/1147080255/
+154,Software Engineering,Data science with Python Gen AI,Wipro,"Mar 23, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-science-with-Python-Gen-AI-500032/1144921055/
+155,Software Engineering,Technical Lead - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1151760355/
+156,Software Engineering,Developer - L3,Wipro,"Mar 25, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-L3-411005/1152561155/
+157,Software Engineering,Developer - L4,Wipro,"Mar 25, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1152576655/
+158,Software Engineering,Tools Practice Engg Lead,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Tools-Practice-Engg-Lead-560035/1150442655/
+159,Software Engineering,Developer,Wipro,"Mar 1, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1149299755/
+160,Software Engineering,"Tools Practice lead - GTM, Analyst, Marketing",Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Tools-Practice-lead-GTM%2C-Analyst%2C-Marketing-560035/1150443255/
+161,Software Engineering,Application Architect - L1,Wipro,"Mar 24, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1152409055/
+162,Software Engineering,Developer - L4,Wipro,"Mar 24, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-L4-560035/1152399655/
+163,Software Engineering,Developer - L4,Wipro,"Mar 24, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-L4-560035/1152408355/
+164,Software Engineering,Marketing Manager for DX,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Marketing-Manager-for-DX-560035/1150125855/
+165,Software Engineering,Data Scientist,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035
             
                 +2 more…",https://careers.wipro.com//job/Bengaluru-Data-Scientist-560035/1149114555/
-132,Software Engineering,Application Architect - L1,Wipro,"Feb 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1141475855/
-133,Software Engineering,Application Architect,Wipro,"Feb 26, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-560035/1145398655/
-134,Software Engineering,Lab45 - Senior Architect - Emerging Technologies & Innovation,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-Senior-Architect-Emerging-Technologies-&-Innovation-560035/1147474655/
-135,Software Engineering,Solution Architect,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-560035/1140456955/
-136,Software Engineering,Application Architect,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035
+166,Software Engineering,Application Architect - L1,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1141475855/
+167,Software Engineering,Application Architect,Wipro,"Feb 26, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-560035/1145398655/
+168,Software Engineering,Lab45 - Senior Architect - Emerging Technologies & Innovation,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-Senior-Architect-Emerging-Technologies-&-Innovation-560035/1147474655/
+169,Software Engineering,Application Architect,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035
             
                 +1 more…",https://careers.wipro.com//job/Bengaluru-Application-Architect-560035/1143006355/
-137,Software Engineering,Functional Solution Architect,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Functional-Solution-Architect-560035/1142863355/
-138,Software Engineering,Databricks Architect,Wipro,"Mar 18, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Databricks-Architect-411005/1141038355/
-139,Software Engineering,Data Governance- C1,Wipro,"Mar 18, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Governance-C1-500032/1151626055/
-140,Software Engineering,Infrastructure Architect(Contract),Wipro,"Mar 12, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Infrastructure-Architect%28Contract%29-411005/1147071455/
-141,Software Engineering,Application Architect - L1,Wipro,"Feb 26, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1148875155/
-142,Software Engineering,Application Architect - L1,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1149120355/
-143,Software Engineering,Application Architect - L1,Wipro,"Mar 2, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1149422655/
-144,Software Engineering,Application Architect - L1,Wipro,"Feb 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1144594155/
-145,Software Engineering,Application Architect - L1,Wipro,"Feb 25, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1145217055/
-146,Software Engineering,Application Architect - L1,Wipro,"Mar 3, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Application-Architect-L1-411005/1149543055/
-147,Software Engineering,Application Architect - L1,Wipro,"Mar 5, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1145912355/
-148,Software Engineering,Application Architect - L1,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1150599155/
-149,Software Engineering,Application Architect - L1,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1150619155/
-150,Software Engineering,Analyst,Wipro,"Mar 11, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Analyst-122016/1140181255/
-151,Software Engineering,Developer - L3,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-L3-560035/1151819255/
-152,Software Engineering,DataIku Data Science Architect,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-DataIku-Data-Science-Architect-560035/1151634155/
-153,Software Engineering,Infrastructure and Platform Architect - L2(Contract),Wipro,"Mar 7, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Infrastructure-and-Platform-Architect-L2%28Contract%29-600119/1142875855/
-154,Software Engineering,Techno Functional Consultant,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Techno-Functional-Consultant-560035/1142925755/
-155,Software Engineering,AI Lead - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1147103855/
-156,Software Engineering,AI Lead - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1151777455/
-157,Software Engineering,Network Engineer,Wipro,"Mar 4, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Network-Engineer-500032/1149722255/
-158,Software Engineering,Lead Administrator - L1,Wipro,"Mar 8, 2025","Visakhapatnam, IN, 530013",https://careers.wipro.com//job/Visakhapatnam-Lead-Administrator-L1-530013/1143063455/
-159,Software Engineering,Developer - L3,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L3-500032/1151787055/
-160,Software Engineering,Mulesoft Application Architect,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Mulesoft-Application-Architect-560035/1148173555/
-161,Software Engineering,Data Scientist,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035
+170,Software Engineering,Databricks Architect,Wipro,"Mar 18, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Databricks-Architect-411005/1141038355/
+171,Software Engineering,AI Architect,Wipro,"Mar 5, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-AI-Architect-500032/1145912355/
+172,Software Engineering,Data Governance Consultant,Wipro,"Mar 18, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Governance-Consultant-500032/1151626055/
+173,Software Engineering,Infrastructure Architect(Contract),Wipro,"Mar 12, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Infrastructure-Architect%28Contract%29-411005/1147071455/
+174,Software Engineering,Application Architect - L1,Wipro,"Feb 26, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1148875155/
+175,Software Engineering,Technical Lead - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1151760355/
+176,Software Engineering,Developer - L4,Wipro,"Mar 12, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-L4-411005/1147080255/
+177,Software Engineering,Tools Practice Engg Lead,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Tools-Practice-Engg-Lead-560035/1150442655/
+178,Software Engineering,"Tools Practice lead - GTM, Analyst, Marketing",Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Tools-Practice-lead-GTM%2C-Analyst%2C-Marketing-560035/1150443255/
+179,Software Engineering,Developer,Wipro,"Mar 1, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1149299755/
+180,Software Engineering,Marketing Manager for DX,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Marketing-Manager-for-DX-560035/1150125855/
+181,Software Engineering,Data Scientist,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035
             
                 +2 more…",https://careers.wipro.com//job/Bengaluru-Data-Scientist-560035/1149114555/
-162,Software Engineering,Lead Administrator,Wipro,"Mar 6, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Lead-Administrator-122016/1146326655/
-163,Software Engineering,Technology Architect - L1,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Technology-Architect-L1-500032/1151801155/
-164,Software Engineering,Techno Functional Consultant - L1,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Techno-Functional-Consultant-L1-500032/1150700255/
-165,Software Engineering,Lead Administrator - L1,Wipro,"Mar 2, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Lead-Administrator-L1-400708/1142409455/
-166,Software Engineering,Python Developer,Wipro,"Mar 10, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Python-Developer-600119/1143288955/
-167,Software Engineering,Developer - Snowflake/DBT,Wipro,"Mar 2, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-SnowflakeDBT-560035/1145410155/
-168,Software Engineering,ELK Grafana developer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-ELK-Grafana-developer-560035/1150436455/
-169,Software Engineering,Site Reliability Engineer(Contract),Wipro,"Mar 6, 2025","Ahmedabad, IN, 380058",https://careers.wipro.com//job/Ahmedabad-Site-Reliability-Engineer%28Contract%29-380058/1142729955/
-170,Software Engineering,ITSM and ITAM developer,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-ITSM-and-ITAM-developer-560035/1150593555/
-171,Software Engineering,Datadog NewRelic Developer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Datadog-NewRelic-Developer-560035/1150437755/
-172,Software Engineering,Lead Analyst,Wipro,"Feb 25, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Lead-Analyst-122016/1145190955/
-173,Software Engineering,Gen AI Engineer - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Gen-AI-Engineer-L1-560035/1151766855/
-174,Software Engineering,Lead Analyst,Wipro,"Mar 9, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Lead-Analyst-122016/1140012555/
-175,Software Engineering,Developer(Contract),Wipro,"Mar 9, 2025","Vijayanagara, IN",https://careers.wipro.com//job/Vijayanagara-Developer%28Contract%29/1146719555/
-176,Software Engineering,Engineering Head - L1,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Engineering-Head-L1-560035/1150522655/
-177,Software Engineering,Site Reliability Engineer - L2,Wipro,"Feb 26, 2025","Indore, IN",https://careers.wipro.com//job/Indore-Site-Reliability-Engineer-L2/1148950355/
-178,Software Engineering,Site Reliability Engineer - L2,Wipro,"Feb 26, 2025","Bharuch, IN",https://careers.wipro.com//job/Bharuch-Site-Reliability-Engineer-L2/1148950655/
-179,Software Engineering,Java Consultant L1,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Java-Consultant-L1-500032/1150760255/
-180,Software Engineering,ITSM and ITAM developer,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-ITSM-and-ITAM-developer-560035/1150593555/
-181,Software Engineering,Application Architect,Wipro,"Feb 26, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-560035/1145398655/
-182,Software Engineering,Product Architect,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Architect-560035/1146133155/
-183,Software Engineering,Technical Consultant - L2,Wipro,"Feb 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Consultant-L2-560035/1140781755/
-184,Software Engineering,Senior Technology Architect - Java,Wipro,"Mar 4, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Senior-Technology-Architect-Java-411005/1149644755/
-185,Software Engineering,Senior Technology Architect - Java,Wipro,"Feb 28, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Senior-Technology-Architect-Java-560035/1139984855/
-186,Software Engineering,Product Engineer - L2,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Engineer-L2-560035/1149888155/
-187,Software Engineering,Product Engineer - L1,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Engineer-L1-560035/1149635855/
-188,Software Engineering,Product Engineer - L1,Wipro,"Mar 3, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Engineer-L1-560035/1149578455/
-189,Software Engineering,Product Engineer - L2,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Engineer-L2-560035/1150934755/
-190,Software Engineering,Product Engineer - L3,Wipro,"Mar 6, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Product-Engineer-L3-411005/1146284155/
-191,Software Engineering,Product Engineer - L2,Wipro,"Mar 6, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Product-Engineer-L2-411005/1146284455/
-192,Software Engineering,Product Engineer - L2,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Engineer-L2-560035/1151783455/
-193,Software Engineering,Product Support Engineer - L2,Wipro,"Mar 20, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Product-Support-Engineer-L2-500032/1151926855/
-194,Software Engineering,Python Developer,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Python-Developer-500032/1150794955/
-195,Software Engineering,Account/Cluster Account/Practice HRBP - L4,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AccountCluster-AccountPractice-HRBP-L4-560035/1149724255/
-196,Software Engineering,Tools Consultant - L1,Wipro,"Mar 5, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Tools-Consultant-L1-500032/1149859455/
-197,Software Engineering,Tools Consultant - L1,Wipro,"Mar 19, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Tools-Consultant-L1-411005/1151767655/
-198,Software Engineering,Site Reliability Engineer(Contract),Wipro,"Mar 6, 2025","Ahmedabad, IN, 380058",https://careers.wipro.com//job/Ahmedabad-Site-Reliability-Engineer%28Contract%29-380058/1142729955/
-199,Software Engineering,Automation Engineer(Contract),Wipro,"Mar 7, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Automation-Engineer%28Contract%29-500032/1142910555/
-200,Software Engineering,Solution Engineer,Wipro,"Mar 4, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Solution-Engineer-411005/1141523255/
-201,Software Engineering,Project Manager,Wipro,"Mar 2, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Project-Manager-500032/1149431655/
-202,Software Engineering,CX Transformation Consultant - BA,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-CX-Transformation-Consultant-BA-560035/1150151855/
-203,Software Engineering,Solution Engineer - L3,Wipro,"Mar 1, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Solution-Engineer-L3-500032/1145716955/
-204,Software Engineering,Solution Engineer - L3,Wipro,"Feb 21, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Solution-Engineer-L3-411005/1148291655/
-205,Software Engineering,Solution Engineer - L2,Wipro,"Feb 24, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Solution-Engineer-L2-600119/1148684755/
-206,Software Engineering,Solution Engineer - L1,Wipro,"Mar 4, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Solution-Engineer-L1-600119/1149655255/
-207,Software Engineering,Solution Engineer - L1,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Engineer-L1-560035/1149678955/
-208,Software Engineering,AIML GCP Lead Engineer,Wipro,"Mar 14, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-AIML-GCP-Lead-Engineer-600119/1143791455/
-209,Software Engineering,Enterprise Risk Analyst,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Enterprise-Risk-Analyst-560035/1140002155/
-210,Software Engineering,ML Engineer,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035
+182,Software Engineering,Application Architect - L1,Wipro,"Feb 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1141475855/
+183,Software Engineering,Application Architect,Wipro,"Feb 26, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-560035/1145398655/
+184,Software Engineering,Lab45 - Senior Architect - Emerging Technologies & Innovation,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Lab45-Senior-Architect-Emerging-Technologies-&-Innovation-560035/1147474655/
+185,Software Engineering,Solution Architect,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-560035/1140456955/
+186,Software Engineering,Application Architect,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035
+            
+                +1 more…",https://careers.wipro.com//job/Bengaluru-Application-Architect-560035/1143006355/
+187,Software Engineering,Functional Solution Architect,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Functional-Solution-Architect-560035/1142863355/
+188,Software Engineering,Databricks Architect,Wipro,"Mar 18, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Databricks-Architect-411005/1141038355/
+189,Software Engineering,Data Governance- C1,Wipro,"Mar 18, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-Governance-C1-500032/1151626055/
+190,Software Engineering,Infrastructure Architect(Contract),Wipro,"Mar 12, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Infrastructure-Architect%28Contract%29-411005/1147071455/
+191,Software Engineering,Application Architect - L1,Wipro,"Feb 26, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1148875155/
+192,Software Engineering,Application Architect - L1,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1149120355/
+193,Software Engineering,Application Architect - L1,Wipro,"Mar 2, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1149422655/
+194,Software Engineering,Application Architect - L1,Wipro,"Feb 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1144594155/
+195,Software Engineering,Application Architect - L1,Wipro,"Feb 25, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1145217055/
+196,Software Engineering,Application Architect - L1,Wipro,"Mar 3, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Application-Architect-L1-411005/1149543055/
+197,Software Engineering,Application Architect - L1,Wipro,"Mar 5, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1145912355/
+198,Software Engineering,Application Architect - L1,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1150599155/
+199,Software Engineering,Application Architect - L1,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1150619155/
+200,Software Engineering,Analyst,Wipro,"Mar 11, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Analyst-122016/1140181255/
+201,Software Engineering,Developer - L3,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-L3-560035/1151819255/
+202,Software Engineering,DataIku Data Science Architect,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-DataIku-Data-Science-Architect-560035/1151634155/
+203,Software Engineering,Infrastructure and Platform Architect - L2(Contract),Wipro,"Mar 7, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Infrastructure-and-Platform-Architect-L2%28Contract%29-600119/1142875855/
+204,Software Engineering,Techno Functional Consultant,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Techno-Functional-Consultant-560035/1142925755/
+205,Software Engineering,AI Lead - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1147103855/
+206,Software Engineering,AI Lead - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1151777455/
+207,Software Engineering,Network Engineer,Wipro,"Mar 4, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Network-Engineer-500032/1149722255/
+208,Software Engineering,Lead Administrator - L1,Wipro,"Mar 8, 2025","Visakhapatnam, IN, 530013",https://careers.wipro.com//job/Visakhapatnam-Lead-Administrator-L1-530013/1143063455/
+209,Software Engineering,Developer - L3,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L3-500032/1151787055/
+210,Software Engineering,Mulesoft Application Architect,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Mulesoft-Application-Architect-560035/1148173555/
+211,Software Engineering,Data Scientist,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035
+            
+                +2 more…",https://careers.wipro.com//job/Bengaluru-Data-Scientist-560035/1149114555/
+212,Software Engineering,Lead Administrator,Wipro,"Mar 6, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Lead-Administrator-122016/1146326655/
+213,Software Engineering,Technology Architect - L1,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Technology-Architect-L1-500032/1151801155/
+214,Software Engineering,Techno Functional Consultant - L1,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Techno-Functional-Consultant-L1-500032/1150700255/
+215,Software Engineering,Lead Administrator - L1,Wipro,"Mar 2, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Lead-Administrator-L1-400708/1142409455/
+216,Software Engineering,Python Developer,Wipro,"Mar 10, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Python-Developer-600119/1143288955/
+217,Software Engineering,Developer - Snowflake/DBT,Wipro,"Mar 2, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-SnowflakeDBT-560035/1145410155/
+218,Software Engineering,ELK Grafana developer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-ELK-Grafana-developer-560035/1150436455/
+219,Software Engineering,Site Reliability Engineer(Contract),Wipro,"Mar 6, 2025","Ahmedabad, IN, 380058",https://careers.wipro.com//job/Ahmedabad-Site-Reliability-Engineer%28Contract%29-380058/1142729955/
+220,Software Engineering,ITSM and ITAM developer,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-ITSM-and-ITAM-developer-560035/1150593555/
+221,Software Engineering,Datadog NewRelic Developer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Datadog-NewRelic-Developer-560035/1150437755/
+222,Software Engineering,Lead Analyst,Wipro,"Feb 25, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Lead-Analyst-122016/1145190955/
+223,Software Engineering,Gen AI Engineer - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Gen-AI-Engineer-L1-560035/1151766855/
+224,Software Engineering,Lead Analyst,Wipro,"Mar 9, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Lead-Analyst-122016/1140012555/
+225,Software Engineering,Developer(Contract),Wipro,"Mar 9, 2025","Vijayanagara, IN",https://careers.wipro.com//job/Vijayanagara-Developer%28Contract%29/1146719555/
+226,Software Engineering,Engineering Head - L1,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Engineering-Head-L1-560035/1150522655/
+227,Software Engineering,Site Reliability Engineer - L2,Wipro,"Feb 26, 2025","Indore, IN",https://careers.wipro.com//job/Indore-Site-Reliability-Engineer-L2/1148950355/
+228,Software Engineering,Site Reliability Engineer - L2,Wipro,"Feb 26, 2025","Bharuch, IN",https://careers.wipro.com//job/Bharuch-Site-Reliability-Engineer-L2/1148950655/
+229,Software Engineering,Java Consultant L1,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Java-Consultant-L1-500032/1150760255/
+230,Software Engineering,ITSM and ITAM developer,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-ITSM-and-ITAM-developer-560035/1150593555/
+231,Software Engineering,Application Architect,Wipro,"Feb 26, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-560035/1145398655/
+232,Software Engineering,Product Architect,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Architect-560035/1146133155/
+233,Software Engineering,Technical Consultant - L2,Wipro,"Feb 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Consultant-L2-560035/1140781755/
+234,Software Engineering,Senior Technology Architect - Java,Wipro,"Mar 4, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Senior-Technology-Architect-Java-411005/1149644755/
+235,Software Engineering,Senior Technology Architect - Java,Wipro,"Feb 28, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Senior-Technology-Architect-Java-560035/1139984855/
+236,Software Engineering,Product Engineer - L2,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Engineer-L2-560035/1149888155/
+237,Software Engineering,Product Engineer - L1,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Engineer-L1-560035/1149635855/
+238,Software Engineering,Product Engineer - L1,Wipro,"Mar 3, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Engineer-L1-560035/1149578455/
+239,Software Engineering,Product Engineer - L2,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Engineer-L2-560035/1150934755/
+240,Software Engineering,Product Engineer - L3,Wipro,"Mar 6, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Product-Engineer-L3-411005/1146284155/
+241,Software Engineering,Product Engineer - L2,Wipro,"Mar 6, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Product-Engineer-L2-411005/1146284455/
+242,Software Engineering,Product Engineer - L2,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Engineer-L2-560035/1151783455/
+243,Software Engineering,Product Support Engineer - L2,Wipro,"Mar 20, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Product-Support-Engineer-L2-500032/1151926855/
+244,Software Engineering,Python Developer,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Python-Developer-500032/1150794955/
+245,Software Engineering,Account/Cluster Account/Practice HRBP - L4,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AccountCluster-AccountPractice-HRBP-L4-560035/1149724255/
+246,Software Engineering,Tools Consultant - L1,Wipro,"Mar 5, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Tools-Consultant-L1-500032/1149859455/
+247,Software Engineering,Tools Consultant - L1,Wipro,"Mar 19, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Tools-Consultant-L1-411005/1151767655/
+248,Software Engineering,Site Reliability Engineer(Contract),Wipro,"Mar 6, 2025","Ahmedabad, IN, 380058",https://careers.wipro.com//job/Ahmedabad-Site-Reliability-Engineer%28Contract%29-380058/1142729955/
+249,Software Engineering,Automation Engineer(Contract),Wipro,"Mar 7, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Automation-Engineer%28Contract%29-500032/1142910555/
+250,Software Engineering,Solution Engineer,Wipro,"Mar 4, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Solution-Engineer-411005/1141523255/
+251,Software Engineering,Project Manager,Wipro,"Mar 2, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Project-Manager-500032/1149431655/
+252,Software Engineering,CX Transformation Consultant - BA,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-CX-Transformation-Consultant-BA-560035/1150151855/
+253,Software Engineering,Solution Engineer - L3,Wipro,"Mar 1, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Solution-Engineer-L3-500032/1145716955/
+254,Software Engineering,Solution Engineer - L3,Wipro,"Feb 21, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Solution-Engineer-L3-411005/1148291655/
+255,Software Engineering,Solution Engineer - L2,Wipro,"Feb 24, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Solution-Engineer-L2-600119/1148684755/
+256,Software Engineering,Solution Engineer - L1,Wipro,"Mar 4, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Solution-Engineer-L1-600119/1149655255/
+257,Software Engineering,Solution Engineer - L1,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Engineer-L1-560035/1149678955/
+258,Software Engineering,AIML GCP Lead Engineer,Wipro,"Mar 14, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-AIML-GCP-Lead-Engineer-600119/1143791455/
+259,Software Engineering,Enterprise Risk Analyst,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Enterprise-Risk-Analyst-560035/1140002155/
+260,Software Engineering,ML Engineer,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035
             
                 +2 more…",https://careers.wipro.com//job/Bengaluru-ML-Engineer-560035/1143791255/
-211,Software Engineering,GCC Specialist Sales / Business Development Executive,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-GCC-Specialist-Sales-Business-Development-Executive-560035/1145699555/
-212,Software Engineering,GCC Specialist Sales / Business Development Executive,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-GCC-Specialist-Sales-Business-Development-Executive-560035/1143695055/
-213,Software Engineering,Datadog NewRelic Developer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Datadog-NewRelic-Developer-560035/1150437755/
-214,Software Engineering,Lead Analyst-Loan Underwriting,Wipro,"Mar 12, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Lead-Analyst-Loan-Underwriting-122016/1140181755/
-215,Software Engineering,Manager - Global Sales Enablement,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Manager-Global-Sales-Enablement-560035/1143474055/
-216,Software Engineering,Quality Engineering Transformation Architect,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035
+261,Software Engineering,GCC Specialist Sales / Business Development Executive,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-GCC-Specialist-Sales-Business-Development-Executive-560035/1145699555/
+262,Software Engineering,GCC Specialist Sales / Business Development Executive,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-GCC-Specialist-Sales-Business-Development-Executive-560035/1143695055/
+263,Software Engineering,Datadog NewRelic Developer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Datadog-NewRelic-Developer-560035/1150437755/
+264,Software Engineering,Lead Analyst-Loan Underwriting,Wipro,"Mar 12, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Lead-Analyst-Loan-Underwriting-122016/1140181755/
+265,Software Engineering,Manager - Global Sales Enablement,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Manager-Global-Sales-Enablement-560035/1143474055/
+266,Software Engineering,Quality Engineering Transformation Architect,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035
             
                 +3 more…",https://careers.wipro.com//job/Bengaluru-Quality-Engineering-Transformation-Architect-560035/1149133155/
-217,Software Engineering,Senior Technology Architect - Java,Wipro,"Mar 4, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Senior-Technology-Architect-Java-411005/1149644755/
-218,Software Engineering,Senior Technology Architect - Java,Wipro,"Feb 28, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Senior-Technology-Architect-Java-560035/1139984855/
-219,Software Engineering,Senior Technology Architect - Java,Wipro,"Mar 5, 2025","Chennai, IN, 600119
+267,Software Engineering,Senior Technology Architect - Java,Wipro,"Mar 4, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Senior-Technology-Architect-Java-411005/1149644755/
+268,Software Engineering,Senior Technology Architect - Java,Wipro,"Feb 28, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Senior-Technology-Architect-Java-560035/1139984855/
+269,Software Engineering,Senior Technology Architect - Java,Wipro,"Mar 5, 2025","Chennai, IN, 600119
             
                 +1 more…",https://careers.wipro.com//job/Chennai-Senior-Technology-Architect-Java-600119/1139943455/
-220,Software Engineering,Senior Technology Architect - Java,Wipro,"Mar 5, 2025","Pune, IN, 411005
+270,Software Engineering,Senior Technology Architect - Java,Wipro,"Mar 5, 2025","Pune, IN, 411005
             
                 +1 more…",https://careers.wipro.com//job/Pune-Senior-Technology-Architect-Java-411005/1139982255/
-221,Software Engineering,Presales Head L2,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Presales-Head-L2-560035/1140457455/
-222,Software Engineering,AI Lead - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1147103855/
-223,Software Engineering,Senior Consultant-Technology & Implementation,Wipro,"Mar 7, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Technology-&-Implementation-500032/1142403855/
-224,Software Engineering,Business Analyst,Wipro,"Mar 7, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Business-Analyst-122016/1150144355/
-225,Software Engineering,Application Architect - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1147113755/
-226,Software Engineering,Application Architect - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1147110955/
-227,Software Engineering,Application Architect - L1,Wipro,"Mar 10, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1150472255/
-228,Software Engineering,Application Architect - L1,Wipro,"Mar 12, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1147113255/
-229,Software Engineering,Application Architect - L1,Wipro,"Mar 10, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1146834855/
-230,Software Engineering,Application Architect - L2,Wipro,"Mar 9, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L2-560035/1146730555/
-231,Software Engineering,Application Architect - L1,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1150924655/
-232,Software Engineering,Application Architect - L1,Wipro,"Feb 28, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1145703155/
-233,Software Engineering,Application Architect - L1,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1149672455/
-234,Software Engineering,Application Architect - L1,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1151126255/
-235,Software Engineering,Application Architect - L1,Wipro,"Mar 17, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1151511455/
-236,Software Engineering,Application Architect - L1,Wipro,"Mar 14, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1147316155/
-237,Software Engineering,Application Architect - L2,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L2-560035/1147525255/
-238,Software Engineering,Application Architect - L2,Wipro,"Mar 16, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L2-560035/1151377955/
-239,Software Engineering,Application Architect - L1,Wipro,"Mar 16, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1151380655/
-240,Software Engineering,Application Architect - L1,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1147803955/
-241,Software Engineering,Application Architect - L1,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1147287655/
-242,Software Engineering,Application Architect - L1,Wipro,"Mar 18, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Application-Architect-L1-411005/1151660555/
-243,Software Engineering,Application Architect - L1,Wipro,"Mar 4, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Application-Architect-L1-411005/1145704255/
-244,Software Engineering,Application Architect - L2,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L2-560035/1149819755/
-245,Software Engineering,Application Architect - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1147976855/
-246,Software Engineering,Application Architect - L2,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L2-560035/1151669255/
-247,Software Engineering,Application Architect - L1,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1151607255/
-248,Software Engineering,Application Architect - L1,Wipro,"Mar 5, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1149833455/
-249,Software Engineering,Azure Integration Solution Architect,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Azure-Integration-Solution-Architect-560035/1147151255/
-250,Software Engineering,AI Engineer - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Engineer-L1-560035/1151829555/
-251,Software Engineering,AIML GCP Engineer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AIML-GCP-Engineer-560035/1146834255/
-252,Software Engineering,Site Reliability Engineer - L2,Wipro,"Feb 26, 2025","Indore, IN",https://careers.wipro.com//job/Indore-Site-Reliability-Engineer-L2/1148950355/
-253,Software Engineering,Site Reliability Engineer - L2,Wipro,"Feb 26, 2025","Bharuch, IN",https://careers.wipro.com//job/Bharuch-Site-Reliability-Engineer-L2/1148950655/
-254,Software Engineering,Site Reliability Engineer - L4,Wipro,"Mar 5, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Site-Reliability-Engineer-L4-411005/1146275855/
-255,Software Engineering,Site Reliability Engineer - L4,Wipro,"Feb 23, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Site-Reliability-Engineer-L4-411005/1143997955/
-256,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 8, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L1-400708/1143037555/
-257,Software Engineering,Apple - JAMF MDM Administrator,Wipro,"Mar 11, 2025","Coimbatore, IN, 641004",https://careers.wipro.com//job/Coimbatore-Apple-JAMF-MDM-Administrator-641004/1139956855/
-258,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Site-Reliability-Engineer-L1-560035/1143057555/
-259,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 13, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L1-400708/1147271855/
-260,Software Engineering,Site Reliability Engineer - L3,Wipro,"Mar 4, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L3-400708/1149633455/
-261,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 14, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L1-400708/1143700355/
-262,Software Engineering,Site Reliability Engineer - L2,Wipro,"Mar 6, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Site-Reliability-Engineer-L2-560035/1150023855/
-263,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 13, 2025","New Delhi, IN",https://careers.wipro.com//job/New-Delhi-Site-Reliability-Engineer-L1/1147290855/
-264,Software Engineering,Python Developer,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Python-Developer-500032/1150794955/
-265,Software Engineering,Senior Python Engineer,Wipro,"Mar 7, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Python-Engineer-500032/1150133255/
-266,Software Engineering,Gen AI Solution Architect,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Gen-AI-Solution-Architect-600119/1147471155/
-267,Software Engineering,GCP Data Engineer- GCP /Python/Big Query,Wipro,"Mar 17, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-GCP-Data-Engineer-GCP-PythonBig-Query-500032/1151448055/
-268,Software Engineering,DataBricks - Data Engineer,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-DataBricks-Data-Engineer-500032/1139939555/
-269,Software Engineering,Mulesoft Lead,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Mulesoft-Lead-560035/1146137055/
-270,Software Engineering,Test Engineer - L4,Wipro,"Mar 14, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Test-Engineer-L4-600119/1147311855/
-271,Software Engineering,Technical Lead - L1,Wipro,"Mar 9, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Technical-Lead-L1-500032/1150356355/
-272,Software Engineering,Test Engineer - L3,Wipro,"Feb 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Test-Engineer-L3-560035/1148322055/
-273,Software Engineering,Technical Lead - L1,Wipro,"Mar 4, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Technical-Lead-L1-411005/1146118955/
-274,Software Engineering,Technical Lead - L1,Wipro,"Mar 6, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1146302755/
-275,Software Engineering,Automation Engineer(Contract),Wipro,"Mar 8, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Automation-Engineer%28Contract%29-500032/1143030655/
-276,Software Engineering,Salesforce Developer- LWC,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Salesforce-Developer-LWC-500032/1140706555/
-277,Software Engineering,Salesforce Developer- LWC,Wipro,"Mar 4, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Salesforce-Developer-LWC-500032/1146100655/
-278,Software Engineering,Salesforce Developer- LWC,Wipro,"Mar 20, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Salesforce-Developer-LWC-500032/1141337355/
-279,Software Engineering,Technical Lead - L1,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1150631555/
-280,Software Engineering,Training Executive,Wipro,"Feb 25, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Training-Executive-411005/1145160455/
-281,Software Engineering,Developer - L3,Wipro,"Mar 18, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L3-500032/1147830755/
-282,Software Engineering,Senior Analyst,Wipro,"Mar 16, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Senior-Analyst-122016/1140060155/
-283,Software Engineering,Tools Practice Engg Lead,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Tools-Practice-Engg-Lead-560035/1150442655/
-284,Software Engineering,Developer(Contract),Wipro,"Feb 21, 2025","Delhi, IN, 110044",https://careers.wipro.com//job/Delhi-Developer%28Contract%29-110044/1140532155/
-285,Software Engineering,Developer,Wipro,"Mar 4, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1146129055/
-286,Software Engineering,Product Manager - L1,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Manager-L1-560035/1150160555/
-287,Software Engineering,Product Manager - L1,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Manager-L1-560035/1150950055/
-288,Software Engineering,Lead Administrator,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Lead-Administrator-500032/1147571555/
-289,Software Engineering,AI Lead - L1,Wipro,"Mar 5, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-AI-Lead-L1-500032/1145917055/
-290,Software Engineering,Senior Python Engineer,Wipro,"Mar 7, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Python-Engineer-500032/1150133255/
-291,Software Engineering,ML Engineer,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-ML-Engineer-560035/1143698655/
-292,Software Engineering,AI Lead - L1,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1151937155/
-293,Software Engineering,AI Lead - L1,Wipro,"Feb 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1148529855/
-294,Software Engineering,AI Lead - L1,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1150630755/
-295,Software Engineering,Domain Architect,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Domain-Architect-560035/1142667655/
-296,Software Engineering,Domain Architect,Wipro,"Mar 11, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Domain-Architect-411005/1140041155/
-297,Software Engineering,Site Reliability Engineer - L4,Wipro,"Mar 5, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Site-Reliability-Engineer-L4-411005/1146275855/
-298,Software Engineering,Site Reliability Engineer - L4,Wipro,"Feb 23, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Site-Reliability-Engineer-L4-411005/1143997955/
-299,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 8, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L1-400708/1143037555/
-300,Software Engineering,MIS Executive - L2,Wipro,"Mar 8, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-MIS-Executive-L2-500032/1146596955/
-301,Software Engineering,Gen AI Technology Architect,Wipro,"Mar 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Gen-AI-Technology-Architect-600119/1148244155/
-302,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 1, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Senior-Consultant-Tech-&-Impl-L1-411005/1145731455/
-303,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Feb 27, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Senior-Consultant-Tech-&-Impl-L1-411005/1149133255/
-304,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 12, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Senior-Consultant-Tech-&-Impl-L1-600119/1143429555/
-305,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 12, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Tech-&-Impl-L1-400708/1147113155/
-306,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 6, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Tech-&-Impl-L1-400708/1150062955/
-307,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 9, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Senior-Consultant-Tech-&-Impl-L1-411005/1143187055/
-308,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Tech-&-Impl-L1-500032/1150981855/
-309,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Tech-&-Impl-L1-500032/1150993355/
-310,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 17, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Tech-&-Impl-L1-500032/1151481455/
-311,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Feb 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Senior-Consultant-Tech-&-Impl-L1-560035/1148291755/
-312,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 17, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Senior-Consultant-Tech-&-Impl-L1-411005/1151485055/
-313,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 1, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Senior-Consultant-Tech-&-Impl-L1-560035/1149332155/
-314,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Senior-Consultant-Tech-&-Impl-L1-560035/1151599355/
-315,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 14, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Tech-&-Impl-L1-400708/1147318155/
-316,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 16, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Tech-&-Impl-L1-400708/1143991055/
-317,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Feb 28, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Senior-Consultant-Tech-&-Impl-L1-600119/1149281855/
-318,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 19, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Tech-&-Impl-L1-400708/1144315255/
-319,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Tech-&-Impl-L1-500032/1151821355/
-320,Software Engineering,Senior Consultant-Technology & Implementation,Wipro,"Mar 20, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Technology-&-Implementation-500032/1144414555/
-321,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 20, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Tech-&-Impl-L1-400708/1144408255/
-322,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Tech-&-Impl-L1-500032/1150986155/
-323,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 18, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Senior-Consultant-Tech-&-Impl-L1-411005/1151652055/
-324,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 20, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Tech-&-Impl-L1-500032/1152042555/
-325,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Site-Reliability-Engineer-L1-560035/1143057555/
-326,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 13, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L1-400708/1147271855/
-327,Software Engineering,Salesforce Developer,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Salesforce-Developer-560035/1140111855/
-328,Software Engineering,Site Reliability Engineer - L3,Wipro,"Mar 4, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L3-400708/1149633455/
-329,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 14, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L1-400708/1143700355/
-330,Software Engineering,Site Reliability Engineer - L2,Wipro,"Mar 6, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Site-Reliability-Engineer-L2-560035/1150023855/
-331,Software Engineering,Account/Cluster Account/Practice HRBP - L3,Wipro,"Mar 18, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-AccountCluster-AccountPractice-HRBP-L3-122016/1151622255/
-332,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 13, 2025","New Delhi, IN",https://careers.wipro.com//job/New-Delhi-Site-Reliability-Engineer-L1/1147290855/
-333,Software Engineering,Developer(Contract),Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer%28Contract%29-560035/1143056555/
-334,Software Engineering,Developer - L4,Wipro,"Mar 16, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1144027555/
-335,Software Engineering,ELK Grafana developer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-ELK-Grafana-developer-560035/1150436455/
-336,Software Engineering,GCC Specialist Sales / Business Development Executive,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-GCC-Specialist-Sales-Business-Development-Executive-560035/1143695055/
-337,Software Engineering,Domain Architect - L1,Wipro,"Feb 23, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Domain-Architect-L1-500032/1148537055/
-338,Software Engineering,Domain Architect - L1,Wipro,"Feb 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Domain-Architect-L1-600119/1141346655/
-339,Software Engineering,Domain Architect - L1,Wipro,"Mar 8, 2025","Noida, IN, 201308",https://careers.wipro.com//job/Noida-Domain-Architect-L1-201308/1146569155/
-340,Software Engineering,Domain Architect - L1,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Domain-Architect-L1-560035/1151075755/
-341,Software Engineering,Domain Architect - L1,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Domain-Architect-L1-560035/1151075855/
-342,Software Engineering,Domain Architect - L2,Wipro,"Mar 19, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Domain-Architect-L2-411005/1147996355/
-343,Software Engineering,Domain Architect - L2,Wipro,"Mar 17, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Domain-Architect-L2-600119/1151488355/
-344,Software Engineering,Domain Architect - L2,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Domain-Architect-L2-560035/1149925255/
-345,Software Engineering,Domain Architect - L1,Wipro,"Mar 18, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Domain-Architect-L1-500032/1151610055/
-346,Software Engineering,Technical Lead - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1143862855/
-347,Software Engineering,Technical Lead - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1143862055/
-348,Software Engineering,"Tools Practice lead - GTM, Analyst, Marketing",Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Tools-Practice-lead-GTM%2C-Analyst%2C-Marketing-560035/1150443255/
-349,Software Engineering,Salesforce Technical Lead- LWC,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Salesforce-Technical-Lead-LWC-500032/1140126655/
-350,Software Engineering,Application Architect - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1151796755/
-351,Software Engineering,Application Architect - L1,Wipro,"Feb 22, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1148441055/
-352,Software Engineering,Application Architect - L1,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1151806755/
-353,Software Engineering,Openshift Architect,Wipro,"Feb 22, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Openshift-Architect-560035/1148449155/
-354,Software Engineering,Epic Migration-Manager,Wipro,"Mar 9, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Epic-Migration-Manager-560035/1143160655/
-355,Software Engineering,SAM Consultant,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-SAM-Consultant-560035/1139991055/
-356,Software Engineering,Training Manager - L2,Wipro,"Mar 10, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Training-Manager-L2-500032/1150453555/
-357,Software Engineering,Associate Deal Execution Manager,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Associate-Deal-Execution-Manager-560035/1140537455/
-358,Software Engineering,Analyst,Wipro,"Mar 7, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Analyst-122016/1145921055/
-359,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143014655/
-360,Software Engineering,Data Operation Admin,Wipro,"Mar 9, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Data-Operation-Admin-411005/1143173855/
-361,Software Engineering,Training Executive,Wipro,"Feb 25, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Training-Executive-411005/1145160455/
-362,Software Engineering,HTML-Web Developer,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-HTML-Web-Developer-560035/1149138455/
-363,Software Engineering,DATA Analytics,Wipro,"Mar 3, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-DATA-Analytics-500032/1149596155/
-364,Software Engineering,Process Associate,Wipro,"Mar 4, 2025","Kolkata, IN, 700091",https://careers.wipro.com//job/Kolkata-Process-Associate-700091/1149645855/
-365,Software Engineering,Process Associate,Wipro,"Mar 18, 2025","Kolkata, IN, 700091",https://careers.wipro.com//job/Kolkata-Process-Associate-700091/1151600755/
-366,Software Engineering,Process Associate,Wipro,"Mar 18, 2025","Kolkata, IN, 700091",https://careers.wipro.com//job/Kolkata-Process-Associate-700091/1151601555/
-367,Software Engineering,Process Associate,Wipro,"Mar 12, 2025","Kolkata, IN, 700091",https://careers.wipro.com//job/Kolkata-Process-Associate-700091/1147078755/
-368,Software Engineering,Production Specialist,Wipro,"Feb 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1148285855/
-369,Software Engineering,Production Specialist,Wipro,"Mar 6, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1150031555/
-370,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1143019755/
-371,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1143020355/
-372,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143014155/
-373,Software Engineering,Assistant Manager,Wipro,"Mar 12, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Assistant-Manager-600119/1150814955/
-374,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1143017555/
-375,Software Engineering,CX Transformation Consultant - BA,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-CX-Transformation-Consultant-BA-560035/1150151855/
-376,Software Engineering,Solution Architect - L1,Wipro,"Feb 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-L1-560035/1148542655/
-377,Software Engineering,Developer,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-560035/1143014255/
-378,Software Engineering,Technical Lead - L1,Wipro,"Feb 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1148545955/
-379,Software Engineering,Developer - L3,Wipro,"Mar 10, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L3-500032/1150482955/
-380,Software Engineering,Python Developer,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Python-Developer-560035/1149706855/
-381,Software Engineering,Engineer - Python/Snowflake,Wipro,"Mar 9, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Engineer-PythonSnowflake-560035/1146722255/
-382,Software Engineering,Python Developer,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Python-Developer-500032/1144254255/
-383,Software Engineering,Data science with Python Gen AI,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-science-with-Python-Gen-AI-500032/1147477555/
-384,Software Engineering,Developer - L3,Wipro,"Mar 6, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-L3-560035/1146302455/
-385,Software Engineering,Automation Engineer - L3,Wipro,"Mar 17, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Automation-Engineer-L3-560035/1144128455/
-386,Software Engineering,Technical Lead - L1,Wipro,"Mar 7, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Technical-Lead-L1-600119/1150205055/
-387,Software Engineering,Developer - L3,Wipro,"Mar 17, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-L3-411005/1151440455/
-388,Software Engineering,Solution Architect - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-L1-560035/1150778055/
-389,Software Engineering,Developer - L4,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1143452255/
-390,Software Engineering,Account Management,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Account-Management-560035/1144648255/
-391,Software Engineering,Developer,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-560035/1144580455/
-392,Software Engineering,Service Desk Analyst - L2,Wipro,"Mar 21, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Service-Desk-Analyst-L2-500032/1148177755/
-393,Software Engineering,Associate,Wipro,"Mar 21, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Associate-400708/1147782755/
-394,Software Engineering,Cyber Security Analyst - L4,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Cyber-Security-Analyst-L4-560035/1148168455/
-395,Software Engineering,Lead Administrator - L1,Wipro,"Mar 21, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Lead-Administrator-L1-411005/1148236055/
-396,Software Engineering,Microsoft -ASP.NET Core Azure  B2,Wipro,"Mar 21, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Microsoft-ASP_NET-Core-Azure-B2-500032/1148170555/
-397,Software Engineering,Test Consultant - L1,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Test-Consultant-L1-560035/1148178555/
-398,Software Engineering,Cyber Security Analyst - L4,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Cyber-Security-Analyst-L4-560035/1148172555/
-399,Software Engineering,Senior Salesforce Developer- Hybrid,Wipro,"Mar 21, 2025","Oakville, CA, L6H 0C3",https://careers.wipro.com//job/Oakville-Senior-Salesforce-Developer-Hybrid-ON-L6H-0C3/1144645455/
-400,Software Engineering,Salesforce Technical Lead- LWC,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Salesforce-Technical-Lead-LWC-500032/1143430955/
-401,Software Engineering,Consultant-Technology & Implementation,Wipro,"Feb 22, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Consultant-Technology-&-Implementation-400708/1148444155/
-402,Software Engineering,Solution Architect(Contract),Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect%28Contract%29-560035/1149866855/
-403,Software Engineering,Datadog NewRelic Developer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Datadog-NewRelic-Developer-560035/1150437755/
-404,Software Engineering,Technical Consultant,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Consultant-560035/1143433455/
-405,Software Engineering,Developer,Wipro,"Feb 4, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-411005/1146142155/
-406,Software Engineering,Developer,Wipro,"Mar 1, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1142314355/
-407,Software Engineering,Developer,Wipro,"Mar 2, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1145900755/
-408,Software Engineering,Developer(Contract),Wipro,"Mar 2, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer%28Contract%29-560035/1145884455/
-409,Software Engineering,Developer(Contract),Wipro,"Feb 21, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer%28Contract%29-411005/1144749755/
-410,Software Engineering,Developer(Contract),Wipro,"Mar 2, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Developer%28Contract%29-400708/1149418155/
-411,Software Engineering,Developer,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-560035/1146152155/
-412,Software Engineering,Developer,Wipro,"Mar 6, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-411005/1142812555/
-413,Software Engineering,Developer,Wipro,"Mar 6, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-411005/1142785055/
-414,Software Engineering,Developer(Contract),Wipro,"Mar 6, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer%28Contract%29-411005/1142736555/
-415,Software Engineering,Developer(Contract),Wipro,"Feb 27, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer%28Contract%29-500032/1149078355/
-416,Software Engineering,Developer,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-560035/1142901055/
-417,Software Engineering,Developer,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1140046455/
-418,Software Engineering,Developer,Wipro,"Mar 4, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1149750855/
-419,Software Engineering,Developer,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1143427255/
-420,Software Engineering,Developer,Wipro,"Mar 8, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-411005/1143057955/
-421,Software Engineering,Developer,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1147287055/
-422,Software Engineering,Developer,Wipro,"Mar 15, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-411005/1143870755/
-423,Software Engineering,Developer(Contract),Wipro,"Mar 9, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer%28Contract%29-411005/1143187155/
-424,Software Engineering,Developer,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-560035/1148066855/
-425,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1143020155/
-426,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143014755/
-427,Software Engineering,Executive/ Sr. Executive,Wipro,"Mar 13, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Executive-Sr_-Executive-600119/1150969755/
-428,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Production-Specialist-500032/1143859755/
-429,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Production-Specialist-500032/1143859655/
-430,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143855355/
-431,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143856055/
-432,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143855855/
-433,Software Engineering,Production Specialist,Wipro,"Mar 16, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Production-Specialist-500032/1140860055/
-434,Software Engineering,Senior analyst,Wipro,"Mar 11, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Senior-analyst-122016/1140101955/
-435,Software Engineering,Management Trainee,Wipro,"Mar 18, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Management-Trainee-122016/1140048855/
-436,Software Engineering,Production Specialist,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1144458055/
-437,Software Engineering,System Engineer - L3,Wipro,"Feb 20, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-System-Engineer-L3-600119/1144622655/
-438,Software Engineering,System Engineer - L3,Wipro,"Mar 19, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-System-Engineer-L3-600119/1147827755/
-439,Software Engineering,Project Manager - L2,Wipro,"Mar 7, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Project-Manager-L2-411005/1150142255/
-440,Software Engineering,Project Manager - L2,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Project-Manager-L2-560035/1150607655/
-441,Software Engineering,Management Trainee,Wipro,"Mar 10, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Management-Trainee-122016/1150476955/
-442,Software Engineering,Lead Analyst,Wipro,"Mar 9, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Lead-Analyst-122016/1140012555/
-443,Software Engineering,Deputy Manager - BS Control,Wipro,"Mar 2, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Deputy-Manager-BS-Control-411005/1145919955/
-444,Software Engineering,Project Manager,Wipro,"Feb 26, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Project-Manager-400708/1141991455/
-445,Software Engineering,Production Specialist,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Production-Specialist-500032/1141548055/
-446,Software Engineering,Executive/Sr. Executive,Wipro,"Mar 12, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-ExecutiveSr_-Executive-600119/1143409155/
-447,Software Engineering,Executive / Senior Executive,Wipro,"Mar 12, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Executive-Senior-Executive-411005/1147128755/
-448,Software Engineering,Senior Analyst,Wipro,"Mar 9, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Senior-Analyst-122016/1146737655/
-449,Software Engineering,Senior Analyst,Wipro,"Mar 12, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Senior-Analyst-122016/1147113455/
-450,Software Engineering,MIS Executive - L1,Wipro,"Mar 6, 2025","Hyderabad, IN, 500032
+271,Software Engineering,Presales Head L2,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Presales-Head-L2-560035/1140457455/
+272,Software Engineering,AI Lead - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1147103855/
+273,Software Engineering,Senior Consultant-Technology & Implementation,Wipro,"Mar 7, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Technology-&-Implementation-500032/1142403855/
+274,Software Engineering,Business Analyst,Wipro,"Mar 7, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Business-Analyst-122016/1150144355/
+275,Software Engineering,Application Architect - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1147113755/
+276,Software Engineering,Application Architect - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1147110955/
+277,Software Engineering,Application Architect - L1,Wipro,"Mar 10, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1150472255/
+278,Software Engineering,Application Architect - L1,Wipro,"Mar 12, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1147113255/
+279,Software Engineering,Application Architect - L1,Wipro,"Mar 10, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1146834855/
+280,Software Engineering,Application Architect - L2,Wipro,"Mar 9, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L2-560035/1146730555/
+281,Software Engineering,Application Architect - L1,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1150924655/
+282,Software Engineering,Application Architect - L1,Wipro,"Feb 28, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1145703155/
+283,Software Engineering,Application Architect - L1,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1149672455/
+284,Software Engineering,Application Architect - L1,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1151126255/
+285,Software Engineering,Application Architect - L1,Wipro,"Mar 17, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1151511455/
+286,Software Engineering,Application Architect - L1,Wipro,"Mar 14, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1147316155/
+287,Software Engineering,Application Architect - L2,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L2-560035/1147525255/
+288,Software Engineering,Application Architect - L2,Wipro,"Mar 16, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L2-560035/1151377955/
+289,Software Engineering,Application Architect - L1,Wipro,"Mar 16, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1151380655/
+290,Software Engineering,Application Architect - L1,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1147803955/
+291,Software Engineering,Application Architect - L1,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1147287655/
+292,Software Engineering,Application Architect - L1,Wipro,"Mar 18, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Application-Architect-L1-411005/1151660555/
+293,Software Engineering,Application Architect - L1,Wipro,"Mar 4, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Application-Architect-L1-411005/1145704255/
+294,Software Engineering,Application Architect - L2,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L2-560035/1149819755/
+295,Software Engineering,Application Architect - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1147976855/
+296,Software Engineering,Application Architect - L2,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L2-560035/1151669255/
+297,Software Engineering,Application Architect - L1,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1151607255/
+298,Software Engineering,Application Architect - L1,Wipro,"Mar 5, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1149833455/
+299,Software Engineering,Azure Integration Solution Architect,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Azure-Integration-Solution-Architect-560035/1147151255/
+300,Software Engineering,AI Engineer - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Engineer-L1-560035/1151829555/
+301,Software Engineering,AIML GCP Engineer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AIML-GCP-Engineer-560035/1146834255/
+302,Software Engineering,Site Reliability Engineer - L2,Wipro,"Feb 26, 2025","Indore, IN",https://careers.wipro.com//job/Indore-Site-Reliability-Engineer-L2/1148950355/
+303,Software Engineering,Site Reliability Engineer - L2,Wipro,"Feb 26, 2025","Bharuch, IN",https://careers.wipro.com//job/Bharuch-Site-Reliability-Engineer-L2/1148950655/
+304,Software Engineering,Site Reliability Engineer - L4,Wipro,"Mar 5, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Site-Reliability-Engineer-L4-411005/1146275855/
+305,Software Engineering,Site Reliability Engineer - L4,Wipro,"Feb 23, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Site-Reliability-Engineer-L4-411005/1143997955/
+306,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 8, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L1-400708/1143037555/
+307,Software Engineering,Apple - JAMF MDM Administrator,Wipro,"Mar 11, 2025","Coimbatore, IN, 641004",https://careers.wipro.com//job/Coimbatore-Apple-JAMF-MDM-Administrator-641004/1139956855/
+308,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Site-Reliability-Engineer-L1-560035/1143057555/
+309,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 13, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L1-400708/1147271855/
+310,Software Engineering,Site Reliability Engineer - L3,Wipro,"Mar 4, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L3-400708/1149633455/
+311,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 14, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L1-400708/1143700355/
+312,Software Engineering,Site Reliability Engineer - L2,Wipro,"Mar 6, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Site-Reliability-Engineer-L2-560035/1150023855/
+313,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 13, 2025","New Delhi, IN",https://careers.wipro.com//job/New-Delhi-Site-Reliability-Engineer-L1/1147290855/
+314,Software Engineering,Python Developer,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Python-Developer-500032/1150794955/
+315,Software Engineering,Senior Python Engineer,Wipro,"Mar 7, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Python-Engineer-500032/1150133255/
+316,Software Engineering,Gen AI Solution Architect,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Gen-AI-Solution-Architect-600119/1147471155/
+317,Software Engineering,GCP Data Engineer- GCP /Python/Big Query,Wipro,"Mar 17, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-GCP-Data-Engineer-GCP-PythonBig-Query-500032/1151448055/
+318,Software Engineering,DataBricks - Data Engineer,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-DataBricks-Data-Engineer-500032/1139939555/
+319,Software Engineering,Mulesoft Lead,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Mulesoft-Lead-560035/1146137055/
+320,Software Engineering,Test Engineer - L4,Wipro,"Mar 14, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Test-Engineer-L4-600119/1147311855/
+321,Software Engineering,Technical Lead - L1,Wipro,"Mar 9, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Technical-Lead-L1-500032/1150356355/
+322,Software Engineering,Test Engineer - L3,Wipro,"Feb 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Test-Engineer-L3-560035/1148322055/
+323,Software Engineering,Technical Lead - L1,Wipro,"Mar 4, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Technical-Lead-L1-411005/1146118955/
+324,Software Engineering,Technical Lead - L1,Wipro,"Mar 6, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1146302755/
+325,Software Engineering,Application Architect - L1,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1149120355/
+326,Software Engineering,Application Architect - L1,Wipro,"Mar 2, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1149422655/
+327,Software Engineering,Application Architect - L1,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1150599155/
+328,Software Engineering,Application Architect - L1,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1150619155/
+329,Software Engineering,Application Architect - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1147113755/
+330,Software Engineering,Application Architect - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1147110955/
+331,Software Engineering,Application Architect - L1,Wipro,"Mar 10, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1150472255/
+332,Software Engineering,Application Architect - L1,Wipro,"Mar 12, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1147113255/
+333,Software Engineering,Application Architect - L1,Wipro,"Mar 10, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1146834855/
+334,Software Engineering,Application Architect - L2,Wipro,"Mar 9, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L2-560035/1146730555/
+335,Software Engineering,Application Architect - L1,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1150924655/
+336,Software Engineering,Application Architect - L1,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1149672455/
+337,Software Engineering,Application Architect - L1,Wipro,"Mar 14, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1147316155/
+338,Software Engineering,Application Architect - L2,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L2-560035/1147525255/
+339,Software Engineering,Application Architect - L1,Wipro,"Mar 18, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Application-Architect-L1-411005/1151660555/
+340,Software Engineering,Application Architect - L2,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L2-560035/1149819755/
+341,Software Engineering,Application Architect - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1147976855/
+342,Software Engineering,Application Architect - L2,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L2-560035/1151669255/
+343,Software Engineering,Application Architect - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1151796755/
+344,Software Engineering,Application Architect - L1,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1151967355/
+345,Software Engineering,Application Architect - L1,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1151806755/
+346,Software Engineering,Application Architect - L1,Wipro,"Feb 25, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1145217055/
+347,Software Engineering,Application Architect - L2,Wipro,"Mar 21, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L2-500032/1152089655/
+348,Software Engineering,Application Architect - L1,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1144594155/
+349,Software Engineering,Azure Integration Solution Architect,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Azure-Integration-Solution-Architect-560035/1147151255/
+350,Software Engineering,Automation Engineer(Contract),Wipro,"Mar 8, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Automation-Engineer%28Contract%29-500032/1143030655/
+351,Software Engineering,Salesforce Developer- LWC,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Salesforce-Developer-LWC-500032/1140706555/
+352,Software Engineering,Salesforce Developer- LWC,Wipro,"Mar 4, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Salesforce-Developer-LWC-500032/1146100655/
+353,Software Engineering,Salesforce Developer- LWC,Wipro,"Mar 20, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Salesforce-Developer-LWC-500032/1141337355/
+354,Software Engineering,Technical Lead - L1,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1150631555/
+355,Software Engineering,Training Executive,Wipro,"Feb 25, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Training-Executive-411005/1145160455/
+356,Software Engineering,Developer - L3,Wipro,"Mar 18, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L3-500032/1147830755/
+357,Software Engineering,Senior Analyst,Wipro,"Mar 16, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Senior-Analyst-122016/1140060155/
+358,Software Engineering,Tools Practice Engg Lead,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Tools-Practice-Engg-Lead-560035/1150442655/
+359,Software Engineering,Developer(Contract),Wipro,"Feb 21, 2025","Delhi, IN, 110044",https://careers.wipro.com//job/Delhi-Developer%28Contract%29-110044/1140532155/
+360,Software Engineering,Developer,Wipro,"Mar 4, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1146129055/
+361,Software Engineering,Product Manager - L1,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Manager-L1-560035/1150160555/
+362,Software Engineering,Product Manager - L1,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Product-Manager-L1-560035/1150950055/
+363,Software Engineering,Lead Administrator,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Lead-Administrator-500032/1147571555/
+364,Software Engineering,AI Lead - L1,Wipro,"Mar 5, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-AI-Lead-L1-500032/1145917055/
+365,Software Engineering,Senior Python Engineer,Wipro,"Mar 7, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Python-Engineer-500032/1150133255/
+366,Software Engineering,ML Engineer,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-ML-Engineer-560035/1143698655/
+367,Software Engineering,AI Lead - L1,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1151937155/
+368,Software Engineering,AI Lead - L1,Wipro,"Feb 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1148529855/
+369,Software Engineering,AI Lead - L1,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-AI-Lead-L1-560035/1150630755/
+370,Software Engineering,Domain Architect,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Domain-Architect-560035/1142667655/
+371,Software Engineering,Domain Architect,Wipro,"Mar 11, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Domain-Architect-411005/1140041155/
+372,Software Engineering,Site Reliability Engineer - L4,Wipro,"Mar 5, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Site-Reliability-Engineer-L4-411005/1146275855/
+373,Software Engineering,Site Reliability Engineer - L4,Wipro,"Feb 23, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Site-Reliability-Engineer-L4-411005/1143997955/
+374,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 8, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L1-400708/1143037555/
+375,Software Engineering,Application Architect - L1,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1151126255/
+376,Software Engineering,Application Architect - L1,Wipro,"Mar 13, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1147287655/
+377,Software Engineering,Application Architect - L1,Wipro,"Mar 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1148441055/
+378,Software Engineering,Application Architect - L1,Wipro,"Mar 5, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1149833455/
+379,Software Engineering,Application Architect - L1,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1151607255/
+380,Software Engineering,Application Architect - L1,Wipro,"Mar 25, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Application-Architect-L1-122016/1152561755/
+381,Software Engineering,Application Architect - L1,Wipro,"Mar 25, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Application-Architect-L1-600119/1152577855/
+382,Software Engineering,Openshift Architect,Wipro,"Mar 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Openshift-Architect-560035/1148449155/
+383,Software Engineering,Epic Migration-Manager,Wipro,"Mar 9, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Epic-Migration-Manager-560035/1143160655/
+384,Software Engineering,Training Manager - L2,Wipro,"Mar 10, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Training-Manager-L2-500032/1150453555/
+385,Software Engineering,Associate Deal Execution Manager,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Associate-Deal-Execution-Manager-560035/1140537455/
+386,Software Engineering,Senior Training Manager - Trust & Safety,Wipro,"Mar 24, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Training-Manager-Trust-&-Safety-500032/1152398855/
+387,Software Engineering,Analyst,Wipro,"Mar 7, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Analyst-122016/1145921055/
+388,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143014655/
+389,Software Engineering,Data Operation Admin,Wipro,"Mar 9, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Data-Operation-Admin-411005/1143173855/
+390,Software Engineering,Training Executive,Wipro,"Feb 25, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Training-Executive-411005/1145160455/
+391,Software Engineering,HTML-Web Developer,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-HTML-Web-Developer-560035/1149138455/
+392,Software Engineering,DATA Analytics,Wipro,"Mar 3, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-DATA-Analytics-500032/1149596155/
+393,Software Engineering,Process Associate,Wipro,"Mar 18, 2025","Kolkata, IN, 700091",https://careers.wipro.com//job/Kolkata-Process-Associate-700091/1151600755/
+394,Software Engineering,Process Associate,Wipro,"Mar 18, 2025","Kolkata, IN, 700091",https://careers.wipro.com//job/Kolkata-Process-Associate-700091/1151601555/
+395,Software Engineering,Process Associate,Wipro,"Mar 12, 2025","Kolkata, IN, 700091",https://careers.wipro.com//job/Kolkata-Process-Associate-700091/1147078755/
+396,Software Engineering,Process Associate,Wipro,"Mar 25, 2025","Bhubaneswar, IN, 751024",https://careers.wipro.com//job/Bhubaneswar-Process-Associate-751024/1152555155/
+397,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1143019755/
+398,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1143020355/
+399,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143014155/
+400,Software Engineering,MIS Executive - L2,Wipro,"Mar 8, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-MIS-Executive-L2-500032/1146596955/
+401,Software Engineering,Gen AI Technology Architect,Wipro,"Mar 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Gen-AI-Technology-Architect-600119/1148244155/
+402,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 1, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Senior-Consultant-Tech-&-Impl-L1-411005/1145731455/
+403,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Feb 27, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Senior-Consultant-Tech-&-Impl-L1-411005/1149133255/
+404,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 12, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Senior-Consultant-Tech-&-Impl-L1-600119/1143429555/
+405,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 12, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Tech-&-Impl-L1-400708/1147113155/
+406,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 6, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Tech-&-Impl-L1-400708/1150062955/
+407,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 9, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Senior-Consultant-Tech-&-Impl-L1-411005/1143187055/
+408,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Tech-&-Impl-L1-500032/1150981855/
+409,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Tech-&-Impl-L1-500032/1150993355/
+410,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 17, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Tech-&-Impl-L1-500032/1151481455/
+411,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Feb 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Senior-Consultant-Tech-&-Impl-L1-560035/1148291755/
+412,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 17, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Senior-Consultant-Tech-&-Impl-L1-411005/1151485055/
+413,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 1, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Senior-Consultant-Tech-&-Impl-L1-560035/1149332155/
+414,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Senior-Consultant-Tech-&-Impl-L1-560035/1151599355/
+415,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 14, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Tech-&-Impl-L1-400708/1147318155/
+416,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 16, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Tech-&-Impl-L1-400708/1143991055/
+417,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Feb 28, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Senior-Consultant-Tech-&-Impl-L1-600119/1149281855/
+418,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 19, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Tech-&-Impl-L1-400708/1144315255/
+419,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Tech-&-Impl-L1-500032/1151821355/
+420,Software Engineering,Senior Consultant-Technology & Implementation,Wipro,"Mar 20, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Technology-&-Implementation-500032/1144414555/
+421,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 20, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Tech-&-Impl-L1-400708/1144408255/
+422,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Tech-&-Impl-L1-500032/1150986155/
+423,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 18, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Senior-Consultant-Tech-&-Impl-L1-411005/1151652055/
+424,Software Engineering,Senior Consultant - Tech & Impl - L1,Wipro,"Mar 20, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Tech-&-Impl-L1-500032/1152042555/
+425,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Site-Reliability-Engineer-L1-560035/1143057555/
+426,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 13, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L1-400708/1147271855/
+427,Software Engineering,Salesforce Developer,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Salesforce-Developer-560035/1140111855/
+428,Software Engineering,Site Reliability Engineer - L3,Wipro,"Mar 4, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L3-400708/1149633455/
+429,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 14, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Site-Reliability-Engineer-L1-400708/1143700355/
+430,Software Engineering,Site Reliability Engineer - L2,Wipro,"Mar 6, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Site-Reliability-Engineer-L2-560035/1150023855/
+431,Software Engineering,Account/Cluster Account/Practice HRBP - L3,Wipro,"Mar 18, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-AccountCluster-AccountPractice-HRBP-L3-122016/1151622255/
+432,Software Engineering,Site Reliability Engineer - L1,Wipro,"Mar 13, 2025","New Delhi, IN",https://careers.wipro.com//job/New-Delhi-Site-Reliability-Engineer-L1/1147290855/
+433,Software Engineering,Developer(Contract),Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer%28Contract%29-560035/1143056555/
+434,Software Engineering,Developer - L4,Wipro,"Mar 16, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1144027555/
+435,Software Engineering,ELK Grafana developer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-ELK-Grafana-developer-560035/1150436455/
+436,Software Engineering,GCC Specialist Sales / Business Development Executive,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-GCC-Specialist-Sales-Business-Development-Executive-560035/1143695055/
+437,Software Engineering,Domain Architect - L1,Wipro,"Feb 23, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Domain-Architect-L1-500032/1148537055/
+438,Software Engineering,Domain Architect - L1,Wipro,"Feb 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Domain-Architect-L1-600119/1141346655/
+439,Software Engineering,Domain Architect - L1,Wipro,"Mar 8, 2025","Noida, IN, 201308",https://careers.wipro.com//job/Noida-Domain-Architect-L1-201308/1146569155/
+440,Software Engineering,Domain Architect - L1,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Domain-Architect-L1-560035/1151075755/
+441,Software Engineering,Domain Architect - L1,Wipro,"Mar 14, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Domain-Architect-L1-560035/1151075855/
+442,Software Engineering,Domain Architect - L2,Wipro,"Mar 19, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Domain-Architect-L2-411005/1147996355/
+443,Software Engineering,Domain Architect - L2,Wipro,"Mar 17, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Domain-Architect-L2-600119/1151488355/
+444,Software Engineering,Domain Architect - L2,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Domain-Architect-L2-560035/1149925255/
+445,Software Engineering,Domain Architect - L1,Wipro,"Mar 18, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Domain-Architect-L1-500032/1151610055/
+446,Software Engineering,Technical Lead - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1143862855/
+447,Software Engineering,Technical Lead - L1,Wipro,"Mar 15, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1143862055/
+448,Software Engineering,"Tools Practice lead - GTM, Analyst, Marketing",Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Tools-Practice-lead-GTM%2C-Analyst%2C-Marketing-560035/1150443255/
+449,Software Engineering,Salesforce Technical Lead- LWC,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Salesforce-Technical-Lead-LWC-500032/1140126655/
+450,Software Engineering,Application Architect - L1,Wipro,"Mar 19, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1151796755/
+451,Software Engineering,Application Architect - L1,Wipro,"Feb 22, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Application-Architect-L1-560035/1148441055/
+452,Software Engineering,Application Architect - L1,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Application-Architect-L1-500032/1151806755/
+453,Software Engineering,Openshift Architect,Wipro,"Feb 22, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Openshift-Architect-560035/1148449155/
+454,Software Engineering,Epic Migration-Manager,Wipro,"Mar 9, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Epic-Migration-Manager-560035/1143160655/
+455,Software Engineering,SAM Consultant,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-SAM-Consultant-560035/1139991055/
+456,Software Engineering,Training Manager - L2,Wipro,"Mar 10, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Training-Manager-L2-500032/1150453555/
+457,Software Engineering,Associate Deal Execution Manager,Wipro,"Mar 18, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Associate-Deal-Execution-Manager-560035/1140537455/
+458,Software Engineering,Analyst,Wipro,"Mar 7, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Analyst-122016/1145921055/
+459,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143014655/
+460,Software Engineering,Data Operation Admin,Wipro,"Mar 9, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Data-Operation-Admin-411005/1143173855/
+461,Software Engineering,Training Executive,Wipro,"Feb 25, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Training-Executive-411005/1145160455/
+462,Software Engineering,HTML-Web Developer,Wipro,"Feb 27, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-HTML-Web-Developer-560035/1149138455/
+463,Software Engineering,DATA Analytics,Wipro,"Mar 3, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-DATA-Analytics-500032/1149596155/
+464,Software Engineering,Process Associate,Wipro,"Mar 4, 2025","Kolkata, IN, 700091",https://careers.wipro.com//job/Kolkata-Process-Associate-700091/1149645855/
+465,Software Engineering,Process Associate,Wipro,"Mar 18, 2025","Kolkata, IN, 700091",https://careers.wipro.com//job/Kolkata-Process-Associate-700091/1151600755/
+466,Software Engineering,Process Associate,Wipro,"Mar 18, 2025","Kolkata, IN, 700091",https://careers.wipro.com//job/Kolkata-Process-Associate-700091/1151601555/
+467,Software Engineering,Process Associate,Wipro,"Mar 12, 2025","Kolkata, IN, 700091",https://careers.wipro.com//job/Kolkata-Process-Associate-700091/1147078755/
+468,Software Engineering,Production Specialist,Wipro,"Feb 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1148285855/
+469,Software Engineering,Production Specialist,Wipro,"Mar 6, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1150031555/
+470,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1143019755/
+471,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1143020355/
+472,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143014155/
+473,Software Engineering,Assistant Manager,Wipro,"Mar 12, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Assistant-Manager-600119/1150814955/
+474,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1143017555/
+475,Software Engineering,CX Transformation Consultant - BA,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-CX-Transformation-Consultant-BA-560035/1150151855/
+476,Software Engineering,Solution Architect - L1,Wipro,"Feb 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-L1-560035/1148542655/
+477,Software Engineering,Developer,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-560035/1143014255/
+478,Software Engineering,Technical Lead - L1,Wipro,"Feb 23, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Lead-L1-560035/1148545955/
+479,Software Engineering,Developer - L3,Wipro,"Mar 10, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L3-500032/1150482955/
+480,Software Engineering,Python Developer,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Python-Developer-560035/1149706855/
+481,Software Engineering,Engineer - Python/Snowflake,Wipro,"Mar 9, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Engineer-PythonSnowflake-560035/1146722255/
+482,Software Engineering,Python Developer,Wipro,"Mar 19, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Python-Developer-500032/1144254255/
+483,Software Engineering,Data science with Python Gen AI,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Data-science-with-Python-Gen-AI-500032/1147477555/
+484,Software Engineering,Developer - L3,Wipro,"Mar 6, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-L3-560035/1146302455/
+485,Software Engineering,Automation Engineer - L3,Wipro,"Mar 17, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Automation-Engineer-L3-560035/1144128455/
+486,Software Engineering,Technical Lead - L1,Wipro,"Mar 7, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Technical-Lead-L1-600119/1150205055/
+487,Software Engineering,Developer - L3,Wipro,"Mar 17, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-L3-411005/1151440455/
+488,Software Engineering,Solution Architect - L1,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect-L1-560035/1150778055/
+489,Software Engineering,Developer - L4,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-L4-500032/1143452255/
+490,Software Engineering,Account Management,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Account-Management-560035/1144648255/
+491,Software Engineering,Developer,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-560035/1144580455/
+492,Software Engineering,Service Desk Analyst - L2,Wipro,"Mar 21, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Service-Desk-Analyst-L2-500032/1148177755/
+493,Software Engineering,Associate,Wipro,"Mar 21, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Associate-400708/1147782755/
+494,Software Engineering,Cyber Security Analyst - L4,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Cyber-Security-Analyst-L4-560035/1148168455/
+495,Software Engineering,Lead Administrator - L1,Wipro,"Mar 21, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Lead-Administrator-L1-411005/1148236055/
+496,Software Engineering,Microsoft -ASP.NET Core Azure  B2,Wipro,"Mar 21, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Microsoft-ASP_NET-Core-Azure-B2-500032/1148170555/
+497,Software Engineering,Test Consultant - L1,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Test-Consultant-L1-560035/1148178555/
+498,Software Engineering,Cyber Security Analyst - L4,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Cyber-Security-Analyst-L4-560035/1148172555/
+499,Software Engineering,Senior Salesforce Developer- Hybrid,Wipro,"Mar 21, 2025","Oakville, CA, L6H 0C3",https://careers.wipro.com//job/Oakville-Senior-Salesforce-Developer-Hybrid-ON-L6H-0C3/1144645455/
+500,Software Engineering,Assistant Manager,Wipro,"Mar 12, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Assistant-Manager-600119/1150814955/
+501,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1143017555/
+502,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1143020155/
+503,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143014755/
+504,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Production-Specialist-500032/1143859755/
+505,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Production-Specialist-500032/1143859655/
+506,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143855355/
+507,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143856055/
+508,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143855855/
+509,Software Engineering,Production Specialist,Wipro,"Mar 16, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Production-Specialist-500032/1140860055/
+510,Software Engineering,Analyst,Wipro,"Mar 20, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Analyst-122016/1151974155/
+511,Software Engineering,Production Specialist,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1144458055/
+512,Software Engineering,Production Specialist,Wipro,"Mar 22, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1148285855/
+513,Software Engineering,Senior analyst,Wipro,"Mar 11, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Senior-analyst-122016/1140101955/
+514,Software Engineering,Management Trainee,Wipro,"Mar 18, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Management-Trainee-122016/1140048855/
+515,Software Engineering,Production Specialist - L1,Wipro,"Jan 17, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-L1-600119/1144017555/
+516,Software Engineering,System Engineer - L3,Wipro,"Mar 19, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-System-Engineer-L3-600119/1147827755/
+517,Software Engineering,System Engineer - L3,Wipro,"Mar 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-System-Engineer-L3-600119/1144622655/
+518,Software Engineering,Project Manager - L2,Wipro,"Mar 7, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Project-Manager-L2-411005/1150142255/
+519,Software Engineering,Project Manager - L2,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Project-Manager-L2-560035/1150607655/
+520,Software Engineering,Management Trainee,Wipro,"Mar 10, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Management-Trainee-122016/1150476955/
+521,Software Engineering,Lead Analyst,Wipro,"Mar 9, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Lead-Analyst-122016/1140012555/
+522,Software Engineering,Deputy Manager - BS Control,Wipro,"Mar 2, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Deputy-Manager-BS-Control-411005/1145919955/
+523,Software Engineering,Project Manager,Wipro,"Feb 26, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Project-Manager-400708/1141991455/
+524,Software Engineering,Production Specialist,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Production-Specialist-500032/1141548055/
+525,Software Engineering,Salesforce Technical Lead- LWC,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Salesforce-Technical-Lead-LWC-500032/1143430955/
+526,Software Engineering,Consultant-Technology & Implementation,Wipro,"Feb 22, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Consultant-Technology-&-Implementation-400708/1148444155/
+527,Software Engineering,Solution Architect(Contract),Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Solution-Architect%28Contract%29-560035/1149866855/
+528,Software Engineering,Datadog NewRelic Developer,Wipro,"Mar 10, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Datadog-NewRelic-Developer-560035/1150437755/
+529,Software Engineering,Technical Consultant,Wipro,"Mar 12, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Technical-Consultant-560035/1143433455/
+530,Software Engineering,Developer,Wipro,"Feb 4, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-411005/1146142155/
+531,Software Engineering,Developer,Wipro,"Mar 1, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1142314355/
+532,Software Engineering,Developer,Wipro,"Mar 2, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1145900755/
+533,Software Engineering,Developer(Contract),Wipro,"Mar 2, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer%28Contract%29-560035/1145884455/
+534,Software Engineering,Developer(Contract),Wipro,"Feb 21, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer%28Contract%29-411005/1144749755/
+535,Software Engineering,Developer(Contract),Wipro,"Mar 2, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Developer%28Contract%29-400708/1149418155/
+536,Software Engineering,Developer,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-560035/1146152155/
+537,Software Engineering,Developer,Wipro,"Mar 6, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-411005/1142812555/
+538,Software Engineering,Developer,Wipro,"Mar 6, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-411005/1142785055/
+539,Software Engineering,Developer(Contract),Wipro,"Mar 6, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer%28Contract%29-411005/1142736555/
+540,Software Engineering,Developer(Contract),Wipro,"Feb 27, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer%28Contract%29-500032/1149078355/
+541,Software Engineering,Developer,Wipro,"Mar 7, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-560035/1142901055/
+542,Software Engineering,Developer,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1140046455/
+543,Software Engineering,Developer,Wipro,"Mar 4, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1149750855/
+544,Software Engineering,Developer,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1143427255/
+545,Software Engineering,Developer,Wipro,"Mar 8, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-411005/1143057955/
+546,Software Engineering,Developer,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Developer-500032/1147287055/
+547,Software Engineering,Developer,Wipro,"Mar 15, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer-411005/1143870755/
+548,Software Engineering,Developer(Contract),Wipro,"Mar 9, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Developer%28Contract%29-411005/1143187155/
+549,Software Engineering,Developer,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Developer-560035/1148066855/
+550,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1143020155/
+551,Software Engineering,Production Specialist,Wipro,"Mar 8, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143014755/
+552,Software Engineering,Executive/ Sr. Executive,Wipro,"Mar 13, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Executive-Sr_-Executive-600119/1150969755/
+553,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Production-Specialist-500032/1143859755/
+554,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Production-Specialist-500032/1143859655/
+555,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143855355/
+556,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143856055/
+557,Software Engineering,Production Specialist,Wipro,"Mar 15, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Production-Specialist-600119/1143855855/
+558,Software Engineering,Production Specialist,Wipro,"Mar 16, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Production-Specialist-500032/1140860055/
+559,Software Engineering,Senior analyst,Wipro,"Mar 11, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Senior-analyst-122016/1140101955/
+560,Software Engineering,Management Trainee,Wipro,"Mar 18, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Management-Trainee-122016/1140048855/
+561,Software Engineering,Production Specialist,Wipro,"Mar 20, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Production-Specialist-560035/1144458055/
+562,Software Engineering,System Engineer - L3,Wipro,"Feb 20, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-System-Engineer-L3-600119/1144622655/
+563,Software Engineering,System Engineer - L3,Wipro,"Mar 19, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-System-Engineer-L3-600119/1147827755/
+564,Software Engineering,Project Manager - L2,Wipro,"Mar 7, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Project-Manager-L2-411005/1150142255/
+565,Software Engineering,Project Manager - L2,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Project-Manager-L2-560035/1150607655/
+566,Software Engineering,Management Trainee,Wipro,"Mar 10, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Management-Trainee-122016/1150476955/
+567,Software Engineering,Lead Analyst,Wipro,"Mar 9, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Lead-Analyst-122016/1140012555/
+568,Software Engineering,Deputy Manager - BS Control,Wipro,"Mar 2, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Deputy-Manager-BS-Control-411005/1145919955/
+569,Software Engineering,Project Manager,Wipro,"Feb 26, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Project-Manager-400708/1141991455/
+570,Software Engineering,Production Specialist,Wipro,"Mar 12, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Production-Specialist-500032/1141548055/
+571,Software Engineering,Executive/Sr. Executive,Wipro,"Mar 12, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-ExecutiveSr_-Executive-600119/1143409155/
+572,Software Engineering,Executive / Senior Executive,Wipro,"Mar 12, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Executive-Senior-Executive-411005/1147128755/
+573,Software Engineering,Senior Analyst,Wipro,"Mar 9, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Senior-Analyst-122016/1146737655/
+574,Software Engineering,Senior Analyst,Wipro,"Mar 12, 2025","Gurugram, IN, 122016",https://careers.wipro.com//job/Gurugram-Senior-Analyst-122016/1147113455/
+575,Software Engineering,MIS Executive - L1,Wipro,"Mar 6, 2025","Hyderabad, IN, 500032
             
                 +1 more…",https://careers.wipro.com//job/Hyderabad-MIS-Executive-L1-500032/1149982055/
-451,Software Engineering,MIS Executive - L1,Wipro,"Mar 19, 2025","Mumbai, IN, 400708
+576,Software Engineering,MIS Executive - L1,Wipro,"Mar 19, 2025","Mumbai, IN, 400708
             
                 +1 more…",https://careers.wipro.com//job/Mumbai-MIS-Executive-L1-400708/1147982655/
-452,Software Engineering,Network Engineer(Contract),Wipro,"Mar 6, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Network-Engineer%28Contract%29-560035/1142784355/
-453,Software Engineering,Senior Consultant - Adv. & Mgmt - L1,Wipro,"Mar 8, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Adv_-&-Mgmt-L1-400708/1143987255/
-454,Software Engineering,Senior Consultant - Adv. & Mgmt - L1,Wipro,"Mar 14, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Adv_-&-Mgmt-L1-400708/1147326655/
-455,Software Engineering,Senior Consultant - Adv. & Mgmt - L1,Wipro,"Mar 14, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Senior-Consultant-Adv_-&-Mgmt-L1-600119/1151240755/
-456,Software Engineering,Senior Consultant - Adv. & Mgmt - L1,Wipro,"Mar 17, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Adv_-&-Mgmt-L1-500032/1151422655/
-457,Software Engineering,Senior Consultant - Adv. & Mgmt - L1,Wipro,"Mar 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Senior-Consultant-Adv_-&-Mgmt-L1-600119/1144680555/
-458,Software Engineering,Systems Hardware Architect,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Systems-Hardware-Architect-560035/1143009755/
-459,Software Engineering,Business Analyst,Wipro,"Mar 2, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Business-Analyst-500032/1142420955/
-460,Software Engineering,Business Analyst,Wipro,"Mar 20, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Business-Analyst-500032/1141325655/
-461,Software Engineering,Assistant Manager,Wipro,"Mar 6, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Assistant-Manager-500032/1149984355/
-462,Software Engineering,Assistant Manager,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Assistant-Manager-500032/1140054855/
-463,Software Engineering,Quality Analyst - L2,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Quality-Analyst-L2-500032/1150918755/
-464,Software Engineering,Quality Analyst - L3,Wipro,"Mar 1, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Quality-Analyst-L3-400708/1149303455/
-465,Software Engineering,Quality Analyst - L1,Wipro,"Mar 17, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Quality-Analyst-L1-560035/1141031655/
-466,Software Engineering,Quality Analyst - L1,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Quality-Analyst-L1-560035/1152086455/
-467,Software Engineering,RPA Business Analyst Lead - Manager,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035
+577,Software Engineering,Network Engineer(Contract),Wipro,"Mar 6, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Network-Engineer%28Contract%29-560035/1142784355/
+578,Software Engineering,Senior Consultant - Adv. & Mgmt - L1,Wipro,"Mar 8, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Adv_-&-Mgmt-L1-400708/1143987255/
+579,Software Engineering,Senior Consultant - Adv. & Mgmt - L1,Wipro,"Mar 14, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Senior-Consultant-Adv_-&-Mgmt-L1-400708/1147326655/
+580,Software Engineering,Senior Consultant - Adv. & Mgmt - L1,Wipro,"Mar 14, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Senior-Consultant-Adv_-&-Mgmt-L1-600119/1151240755/
+581,Software Engineering,Senior Consultant - Adv. & Mgmt - L1,Wipro,"Mar 17, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Senior-Consultant-Adv_-&-Mgmt-L1-500032/1151422655/
+582,Software Engineering,Senior Consultant - Adv. & Mgmt - L1,Wipro,"Mar 21, 2025","Chennai, IN, 600119",https://careers.wipro.com//job/Chennai-Senior-Consultant-Adv_-&-Mgmt-L1-600119/1144680555/
+583,Software Engineering,Systems Hardware Architect,Wipro,"Mar 8, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Systems-Hardware-Architect-560035/1143009755/
+584,Software Engineering,Business Analyst,Wipro,"Mar 2, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Business-Analyst-500032/1142420955/
+585,Software Engineering,Business Analyst,Wipro,"Mar 20, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Business-Analyst-500032/1141325655/
+586,Software Engineering,Assistant Manager,Wipro,"Mar 6, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Assistant-Manager-500032/1149984355/
+587,Software Engineering,Assistant Manager,Wipro,"Mar 11, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Assistant-Manager-500032/1140054855/
+588,Software Engineering,Quality Analyst - L2,Wipro,"Mar 13, 2025","Hyderabad, IN, 500032",https://careers.wipro.com//job/Hyderabad-Quality-Analyst-L2-500032/1150918755/
+589,Software Engineering,Quality Analyst - L3,Wipro,"Mar 1, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Quality-Analyst-L3-400708/1149303455/
+590,Software Engineering,Quality Analyst - L1,Wipro,"Mar 17, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Quality-Analyst-L1-560035/1141031655/
+591,Software Engineering,Quality Analyst - L1,Wipro,"Mar 21, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Quality-Analyst-L1-560035/1152086455/
+592,Software Engineering,RPA Business Analyst Lead - Manager,Wipro,"Mar 4, 2025","Bengaluru, IN, 560035
             
                 +1 more…",https://careers.wipro.com//job/Bengaluru-RPA-Business-Analyst-Lead-Manager-560035/1149739255/
-468,Software Engineering,Executive workforce management - L3,Wipro,"Mar 19, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Executive-workforce-management-L3-411005/1147983155/
-469,Software Engineering,Functional Consultant - L2,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Functional-Consultant-L2-560035/1149886455/
-470,Software Engineering,Project Manager - L2,Wipro,"Mar 7, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Project-Manager-L2-411005/1150142255/
-471,Software Engineering,Project Manager - L2,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Project-Manager-L2-560035/1150607655/
-472,Software Engineering,SAM,Wipro,"Mar 2, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-SAM-411005/1143003555/
-473,Software Engineering,Project Manager,Wipro,"Feb 26, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Project-Manager-400708/1141991455/
-474,Software Engineering,Project Manager - L1,Wipro,"Feb 26, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Project-Manager-L1-400708/1145345555/
+593,Software Engineering,Executive workforce management - L3,Wipro,"Mar 19, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Executive-workforce-management-L3-411005/1147983155/
+594,Software Engineering,Functional Consultant - L2,Wipro,"Mar 5, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Functional-Consultant-L2-560035/1149886455/
+595,Software Engineering,Project Manager - L2,Wipro,"Mar 7, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-Project-Manager-L2-411005/1150142255/
+596,Software Engineering,Project Manager - L2,Wipro,"Mar 11, 2025","Bengaluru, IN, 560035",https://careers.wipro.com//job/Bengaluru-Project-Manager-L2-560035/1150607655/
+597,Software Engineering,SAM,Wipro,"Mar 2, 2025","Pune, IN, 411005",https://careers.wipro.com//job/Pune-SAM-411005/1143003555/
+598,Software Engineering,Project Manager,Wipro,"Feb 26, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Project-Manager-400708/1141991455/
+599,Software Engineering,Project Manager - L1,Wipro,"Feb 26, 2025","Mumbai, IN, 400708",https://careers.wipro.com//job/Mumbai-Project-Manager-L1-400708/1145345555/
