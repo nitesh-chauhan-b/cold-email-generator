@@ -7,7 +7,7 @@ import pandas as pd
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
-
+from google_auth_oauthlib.flow import Flow
 # Adding / Initializing session login variable
 
 if "LOGIN_STATUS" not in os.environ:
@@ -23,58 +23,96 @@ if os.path.exists("JSON_data/user_account.json"):
 container = st.empty()
 sub_container = container.container()
 
-#login for cloud
+#For web app login
 def login_callback():
     SCOPES = ["https://mail.google.com/"]
 
-    flow = InstalledAppFlow.from_client_config(
+    # OAuth flow configuration for Web Application
+    flow = Flow.from_client_config(
         {
-            "installed": {
+            "web": {
                 "client_id": st.secrets.client_id,
                 "client_secret": st.secrets.client_secret,
                 "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-                "token_uri": "https://oauth2.googleapis.com/token"
+                "token_uri": "https://oauth2.googleapis.com/token",
+                "redirect_uris": [
+                    f"https://{st.secrets.streamlit_app_name}.streamlit.app/"
+                ]  # Use your deployed Streamlit app's URL here
             }
         },
         scopes=SCOPES
     )
 
-    if os.environ.get("STREAMLIT_DEPLOYED"):  # Set this in your cloud environment
-        # Headless OAuth (Cloud)
-        auth_url, _ = flow.authorization_url(prompt='consent')
-        st.info("Please click the link below to authorize access to your Gmail account:")
-        st.markdown(f"[Authorize here]({auth_url})")
+    # Generate the authorization URL and ask user to visit it
+    auth_url, _ = flow.authorization_url(prompt='consent')
+    st.info("Please click the link below to authorize access to your Gmail account:")
+    st.markdown(f"[Authorize here]({auth_url})")
 
-        code = st.text_input("Paste the authorization code here:")
+    # Get the authorization code
+    code = st.text_input("Paste the authorization code here:")
 
-        if code:
-            flow.fetch_token(code=code)
-            credentials = flow.credentials
+    if code:
+        # Fetch the token using the authorization code
+        flow.fetch_token(code=code)
+        credentials = flow.credentials
 
-            # Save token
-            json_token = credentials.to_json()
-            with open("JSON_data/token.json", "w") as file:
-                file.write(json_token)
-
-            st.session_state.credentials = credentials
-            st.success("Your Authentication has been successfully done.")
-
-            with open("JSON_data/user_account.json", "w") as file:
-                json.dump({"login_status": "1"}, file)
-
-    else:
-        # Local OAuth (Localhost)
-        credentials = flow.run_local_server(port=8080)
+        # Save token to a JSON file
         json_token = credentials.to_json()
         with open("JSON_data/token.json", "w") as file:
             file.write(json_token)
 
+        # Store credentials in session state for later use
         st.session_state.credentials = credentials
         st.success("Your Authentication has been successfully done.")
 
+        # Save login status to a JSON file
         with open("JSON_data/user_account.json", "w") as file:
             json.dump({"login_status": "1"}, file)
 
+
+#Last modified one
+# #login for cloud
+# def login_callback():
+#     SCOPES = ["https://mail.google.com/"]
+#
+#     # OAuth flow configuration using Streamlit secrets
+#     flow = InstalledAppFlow.from_client_config(
+#         {
+#             "installed": {
+#                 "client_id": st.secrets.client_id,
+#                 "client_secret": st.secrets.client_secret,
+#                 "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+#                 "token_uri": "https://oauth2.googleapis.com/token"
+#             }
+#         },
+#         scopes=SCOPES
+#     )
+#
+#     # Start headless OAuth flow
+#     auth_url, _ = flow.authorization_url(prompt='consent')
+#     st.info("Please click the link below to authorize access to your Gmail account:")
+#     st.markdown(f"[Authorize here]({auth_url})")
+#
+#     code = st.text_input("Paste the authorization code here:")
+#
+#     if code:
+#         flow.fetch_token(code=code)
+#         credentials = flow.credentials
+#
+#         # Save token to file
+#         json_token = credentials.to_json()
+#         with open("JSON_data/token.json", "w") as file:
+#             file.write(json_token)
+#
+#         # Store credentials in session
+#         st.session_state.credentials = credentials
+#         st.success("Your Authentication has been successfully done.")
+#
+#         # Save login status
+#         with open("JSON_data/user_account.json", "w") as file:
+#             json.dump({"login_status": "1"}, file)
+
+#Main one
 # Defining login function
 # def login_callback():
 #     credentials = auth.get_user_credentials(
