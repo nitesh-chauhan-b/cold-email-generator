@@ -8,6 +8,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import Flow
+from authlib.integrations.requests_client import OAuth2Session
 # Adding / Initializing session login variable
 
 if "LOGIN_STATUS" not in os.environ:
@@ -23,51 +24,53 @@ if os.path.exists("JSON_data/user_account.json"):
 container = st.empty()
 sub_container = container.container()
 
+
+
 #For web app login
-def login_callback():
-    SCOPES = ["https://mail.google.com/"]
-
-    # OAuth flow configuration for Web Application
-    flow = Flow.from_client_config(
-        {
-            "web": {
-                "client_id": st.secrets.client_id,
-                "client_secret": st.secrets.client_secret,
-                "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-                "token_uri": "https://oauth2.googleapis.com/token",
-                "redirect_uris": [
-                    f"https://{st.secrets.streamlit_app_name}.streamlit.app/"
-                ]  # Use your deployed Streamlit app's URL here
-            }
-        },
-        scopes=SCOPES
-    )
-
-    # Generate the authorization URL and ask user to visit it
-    auth_url, _ = flow.authorization_url(prompt='consent')
-    st.info("Please click the link below to authorize access to your Gmail account:")
-    st.markdown(f"[Authorize here]({auth_url})")
-
-    # Get the authorization code
-    code = st.text_input("Paste the authorization code here:")
-
-    if code:
-        # Fetch the token using the authorization code
-        flow.fetch_token(code=code)
-        credentials = flow.credentials
-
-        # Save token to a JSON file
-        json_token = credentials.to_json()
-        with open("JSON_data/token.json", "w") as file:
-            file.write(json_token)
-
-        # Store credentials in session state for later use
-        st.session_state.credentials = credentials
-        st.success("Your Authentication has been successfully done.")
-
-        # Save login status to a JSON file
-        with open("JSON_data/user_account.json", "w") as file:
-            json.dump({"login_status": "1"}, file)
+# def login_callback():
+#     SCOPES = ["https://mail.google.com/"]
+#
+#     # OAuth flow configuration for Web Application
+#     flow = Flow.from_client_config(
+#         {
+#             "web": {
+#                 "client_id": st.secrets.client_id,
+#                 "client_secret": st.secrets.client_secret,
+#                 "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+#                 "token_uri": "https://oauth2.googleapis.com/token",
+#                 "redirect_uris": [
+#                     f"https://{st.secrets.streamlit_app_name}.streamlit.app/"
+#                 ]  # Use your deployed Streamlit app's URL here
+#             }
+#         },
+#         scopes=SCOPES
+#     )
+#
+#     # Generate the authorization URL and ask user to visit it
+#     auth_url, _ = flow.authorization_url(prompt='consent')
+#     st.info("Please click the link below to authorize access to your Gmail account:")
+#     st.markdown(f"[Authorize here]({auth_url})")
+#
+#     # Get the authorization code
+#     code = st.text_input("Paste the authorization code here:")
+#
+#     if code:
+#         # Fetch the token using the authorization code
+#         flow.fetch_token(code=code)
+#         credentials = flow.credentials
+#
+#         # Save token to a JSON file
+#         json_token = credentials.to_json()
+#         with open("JSON_data/token.json", "w") as file:
+#             file.write(json_token)
+#
+#         # Store credentials in session state for later use
+#         st.session_state.credentials = credentials
+#         st.success("Your Authentication has been successfully done.")
+#
+#         # Save login status to a JSON file
+#         with open("JSON_data/user_account.json", "w") as file:
+#             json.dump({"login_status": "1"}, file)
 
 
 #Last modified one
@@ -114,36 +117,36 @@ def login_callback():
 
 #Main one
 # Defining login function
-# def login_callback():
-#     credentials = auth.get_user_credentials(
-#         scopes=["https://mail.google.com/"],
-#         client_id=st.secrets.client_id,
-#         client_secret=st.secrets.client_secret
-#     )
-#
-#     # For storing the credentials for the user
-#     st.session_state.credentials = credentials
-#
-#     # Getting the token file after getting the permissions from the user.
-#     json_token = credentials.to_json()
-#
-#     # Saving the JSON file token
-#     with open("JSON_data/token.json", "w") as file:
-#         file.write(json_token)
-#
-#     # Storing the user_credentials in pickle file for secrecy
-#     # with open("token.pkl", "wb") as file:
-#     #     pickle.dump(json_token, file)
-#
-#     st.success("Your Authentication has been successfully done.")
-#
-#     # st.session_state.is_login = True
-#     os.environ["LOGIN_STATUS"] = "1"
-#
-#     with open("JSON_data/user_account.json", "w") as file:
-#         user_account = {}
-#         user_account["login_status"] = "1"
-#         json.dump(user_account, file)
+def login_callback():
+    credentials = auth.get_user_credentials(
+        scopes=["https://mail.google.com/"],
+        client_id=st.secrets.client_id,
+        client_secret=st.secrets.client_secret
+    )
+
+    # For storing the credentials for the user
+    st.session_state.credentials = credentials
+
+    # Getting the token file after getting the permissions from the user.
+    json_token = credentials.to_json()
+
+    # Saving the JSON file token
+    with open("JSON_data/token.json", "w") as file:
+        file.write(json_token)
+
+    # Storing the user_credentials in pickle file for secrecy
+    # with open("token.pkl", "wb") as file:
+    #     pickle.dump(json_token, file)
+
+    st.success("Your Authentication has been successfully done.")
+
+    # st.session_state.is_login = True
+    os.environ["LOGIN_STATUS"] = "1"
+
+    with open("JSON_data/user_account.json", "w") as file:
+        user_account = {}
+        user_account["login_status"] = "1"
+        json.dump(user_account, file)
 
 
 # Logout Function
