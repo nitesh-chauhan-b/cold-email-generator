@@ -53,6 +53,4 @@ Welcome to the **Cold Email Generator**, an AI-powered marketing tool designed t
 5. **Draft to Gmail**  
    The email is automatically saved as a **draft** in the user’s Gmail account for review and sending.
 
----
-
 
