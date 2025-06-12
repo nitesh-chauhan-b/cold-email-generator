@@ -16,8 +16,8 @@ load_dotenv()
 
 #Creating llm
 llm = ChatGroq(
-    temperature=0.6,
-    model = "llama3-70b-8192",
+    temperature=0.5,
+    model = "llama-3.3-70b-versatile",
     max_tokens=1800,
     max_retries=2
 )
@@ -107,10 +107,11 @@ def get_relevant_links(json_data):
 
     #getting collection
     collection = client.get_or_create_collection("company_portfolio")
-
     #Getting relevant links based on the skills from scrapped JSON_data
     links =[]
-    if json_data["skills"]:
+    if not json_data or "skills" not in json_data or not json_data["skills"]:
+        return links
+    else:
         skills = collection.query(
             query_texts=json_data["skills"],
             n_results=2,
@@ -118,8 +119,7 @@ def get_relevant_links(json_data):
         if skills:
             links.extend(skills)
         return links
-    else:
-        return links
+
     #
     # perf_skills = collection.query(
     #     query_texts=json_data["preferred_skills"],

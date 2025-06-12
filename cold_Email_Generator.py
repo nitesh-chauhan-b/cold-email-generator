@@ -16,11 +16,15 @@ try:
 
         #Converting page_data into a required json data
         json_data = langchainHelper.get_json_data(page_data)
-
+        print("Returned JSON data : ",json_data)
         #Storing the csv file into a vector database for similaritySearch
         #For Using Uploaded Portfolio
-        if os.path.exists("resource/company_portfolio.csv"):
-            langchainHelper.store_company_portfolio("resource/company_portfolio.csv")
+        if os.path.exists("resource/company_portfolio_updated.csv"):
+            # langchainHelper.store_company_portfolio("resource/company_portfolio.csv")
+
+            # Using updated portfolio of company
+            langchainHelper.store_company_portfolio("resource/company_portfolio_updated.csv")
+
             print("Using Client Portfolio")
         #If the portfolio is not uploaded then using default portfolio
         else:
@@ -42,6 +46,12 @@ try:
 
         #Storing email in session
         st.session_state.generated_Email = generated_Email
+
+        # if the website is not scrap able with document loader of the langchain we provide the template email.
+
+        if not json_data or not json_data["job_title"]:
+            st.write("Due to security settings on the website, we're unable to fetch job details automatically. But no worries — you can still use the template to add your company's information with ease")
+
 
         is_email_generated = st.code(generated_Email,language="markdown",wrap_lines=True,height=700)
 
